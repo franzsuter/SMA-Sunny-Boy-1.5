@@ -1,0 +1,841 @@
+[
+    {
+        "datum": "07.05.2026 06:20",
+        "funde": []
+    },
+    {
+        "datum": "07.05.2026 06:16",
+        "funde": [
+            {
+                "url": "https://www.sma.de/service/downloads",
+                "bezeichnung": "Downloads",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.sma.de/nachhaltigkeit/downloads",
+                "bezeichnung": "Downloads",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SBxx-1VL-40-DS-de-52.pdf",
+                "bezeichnung": "SBxx-1VL-40-DS-de-52.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SBxx-1VL-40-DS-en-52.pdf",
+                "bezeichnung": "SBxx-1VL-40-DS-en-52.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SBxx-1VL-40-DS-AU-52.pdf",
+                "bezeichnung": "SBxx-1VL-40-DS-AU-52.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/DS_SBxx-1VL-40_DC-Switch_en_10.pdf",
+                "bezeichnung": "DS_SBxx-1VL-40_DC-Switch_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Zero-Export-SBxx-1VL-40-HK-de-11.pdf",
+                "bezeichnung": "Zero-Export-SBxx-1VL-40-HK-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_NBR16149_de_20.pdf",
+                "bezeichnung": "ZE_NBR16149_de_20.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_TOR-D4_SB-STP_SI_de_18.pdf",
+                "bezeichnung": "HK_TOR-D4_SB-STP_SI_de_18.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_E4_SB-STP_de_41.pdf",
+                "bezeichnung": "ZE_E4_SB-STP_de_41.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_E6_SB-STP_de_36.pdf",
+                "bezeichnung": "ZE_E6_SB-STP_de_36.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Kompat_Solarwatt_SMA-de-11.pdf",
+                "bezeichnung": "HK_Kompat_Solarwatt_SMA-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Max_MPP_Strom-de-14.pdf",
+                "bezeichnung": "HK_Max_MPP_Strom-de-14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Meeresnahe Aufstellung_de_18.pdf",
+                "bezeichnung": "HK_Meeresnahe Aufstellung_de_18.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Volllaststd_HBS-HK-de-21.pdf",
+                "bezeichnung": "Volllaststd_HBS-HK-de-21.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE-HK-MPPT-SB-STP-de-21.pdf",
+                "bezeichnung": "ZE-HK-MPPT-SB-STP-de-21.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Foerderung_netzdienliche_Photovoltaik-Batteriespeicher-de-17.pdf",
+                "bezeichnung": "HK_Foerderung_netzdienliche_Photovoltaik-Batteriespeicher-de-17.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SI-HK-BMU-A1-A6-de-21.pdf",
+                "bezeichnung": "SI-HK-BMU-A1-A6-de-21.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SBS-1VL-10-HK-de-14.pdf",
+                "bezeichnung": "SBS-1VL-10-HK-de-14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Komponenten-Speicherprogramm_RLP-de-11.pdf",
+                "bezeichnung": "HK_Komponenten-Speicherprogramm_RLP-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf",
+                "bezeichnung": "SolarInvest-TH_SI-HK-de-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf",
+                "bezeichnung": "SolarInvest-TH_SBS-HK-de-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/RCD-Typ-A-HK-de-18.pdf",
+                "bezeichnung": "RCD-Typ-A-HK-de-18.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_G2_SB-STP_de_38.pdf",
+                "bezeichnung": "ZE_G2_SB-STP_de_38.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_G3_SB-STP_de_33.pdf",
+                "bezeichnung": "ZE_G3_SB-STP_de_33.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PN-EN-ISO-IEC17050-en-10.pdf",
+                "bezeichnung": "PN-EN-ISO-IEC17050-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE-HK-NRS097-2-1-ZA-en-10.pdf",
+                "bezeichnung": "ZE-HK-NRS097-2-1-ZA-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Volllaststd_HBS-HK-en-21.pdf",
+                "bezeichnung": "Volllaststd_HBS-HK-en-21.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE-HK-MPPT-SB-STP-en-21.pdf",
+                "bezeichnung": "ZE-HK-MPPT-SB-STP-en-21.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Max_MPP_Strom-en-14.pdf",
+                "bezeichnung": "HK_Max_MPP_Strom-en-14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EN50549-HK-en-16.pdf",
+                "bezeichnung": "EN50549-HK-en-16.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Meeresnahe Aufstellung_en_18.pdf",
+                "bezeichnung": "HK_Meeresnahe Aufstellung_en_18.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Kompat_Solarwatt_SMA-en-11.pdf",
+                "bezeichnung": "HK_Kompat_Solarwatt_SMA-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_ENA_EREC_G100_en_14.pdf",
+                "bezeichnung": "HK_ENA_EREC_G100_en_14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/C10-11-2019-HK-en-29.pdf",
+                "bezeichnung": "C10-11-2019-HK-en-29.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_SFS-EN50549-1_en_10.pdf",
+                "bezeichnung": "HK_SFS-EN50549-1_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_DC-PV2_en-11.pdf",
+                "bezeichnung": "HK_DC-PV2_en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/RCD-Typ-A-HK-en-18.pdf",
+                "bezeichnung": "RCD-Typ-A-HK-en-18.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Zero-Export-SBxx-1VL-40-HK-en-11.pdf",
+                "bezeichnung": "Zero-Export-SBxx-1VL-40-HK-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SBx5_1VL_40_ZE_CE_de_19.pdf",
+                "bezeichnung": "SBx5_1VL_40_ZE_CE_de_19.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_SB1.5_SB2.0_SB2.5_UNBED_G99-NI-1_ENG_U22-0260.pdf",
+                "bezeichnung": "ZE_SB1.5_SB2.0_SB2.5_UNBED_G99-NI-1_ENG_U22-0260.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SBx5_1VL_40_ZE_CE_en_19.pdf",
+                "bezeichnung": "SBx5_1VL_40_ZE_CE_en_19.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/70-EU-Persistent-Organic-Pollutants-accessory-kit-SB1-5-2-5-40-85-101600-01-01-en-10.pdf",
+                "bezeichnung": "70-EU-Persistent-Organic-Pollutants-accessory-kit-SB1-5-2-5-40-85-101600-01-01-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/71-EU-Persistent-Organic-Pollutants-accessory-kit-SB1-5-2-5-40-85-101600-01-01-en-10.pdf",
+                "bezeichnung": "71-EU-Persistent-Organic-Pollutants-accessory-kit-SB1-5-2-5-40-85-101600-01-01-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_UKCA_SBxx-1VL-40_en_11.pdf",
+                "bezeichnung": "ZE_UKCA_SBxx-1VL-40_en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/TORErzeuger_TYP_A_2019_Paraeinst-SG-de-13.pdf",
+                "bezeichnung": "TORErzeuger_TYP_A_2019_Paraeinst-SG-de-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/MODBUS-HTML_SBxx-1VL-40_V12.zip",
+                "bezeichnung": "MODBUS-HTML_SBxx-1VL-40_V12.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/MODBUS-HTML_SBxx-1VL-40-GG10_V12.zip",
+                "bezeichnung": "MODBUS-HTML_SBxx-1VL-40-GG10_V12.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PARAMETER-HTML_SBxx-1VL-40_V13.zip",
+                "bezeichnung": "PARAMETER-HTML_SBxx-1VL-40_V13.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PARAMETER-HTML_SBxx-1VL-40_GG10_V13.zip",
+                "bezeichnung": "PARAMETER-HTML_SBxx-1VL-40_GG10_V13.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Info-Servicepauschale-de-39.pdf",
+                "bezeichnung": "Info-Servicepauschale-de-39.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PUK-de-28.pdf",
+                "bezeichnung": "PUK-de-28.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Rechnungsvordruck_Servicepauschale-de-18.pdf",
+                "bezeichnung": "Rechnungsvordruck_Servicepauschale-de-18.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PUK-en-28.pdf",
+                "bezeichnung": "PUK-en-28.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Rechnungsvordruck_Servicepauschale-en-18.pdf",
+                "bezeichnung": "Rechnungsvordruck_Servicepauschale-en-18.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Info-Servicepauschale-en-39.pdf",
+                "bezeichnung": "Info-Servicepauschale-en-39.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SB1_5-2_5-1VL-40_configuration_NA-EEA-NE7-CH-2020_Typ_A_B.zip",
+                "bezeichnung": "SB1_5-2_5-1VL-40_configuration_NA-EEA-NE7-CH-2020_Typ_A_B.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/FW3-11-05-R_SBxx-1VL-40.zip",
+                "bezeichnung": "FW3-11-05-R_SBxx-1VL-40.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SBxx-1VL-40-BE-de-19.pdf",
+                "bezeichnung": "SBxx-1VL-40-BE-de-19.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/FNN-EnFluRi-IA-de-11.pdf",
+                "bezeichnung": "FNN-EnFluRi-IA-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/UK-G83_1_1-GBS262-SG-en-12.pdf",
+                "bezeichnung": "UK-G83_1_1-GBS262-SG-en-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/IE_EN50438_2013_Paraeinst-SG-en-11.pdf",
+                "bezeichnung": "IE_EN50438_2013_Paraeinst-SG-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SBxx-1VL-40-BE-en-19.pdf",
+                "bezeichnung": "SBxx-1VL-40-BE-en-19.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SBxx-1VL-40-IS-xx-22.pdf",
+                "bezeichnung": "SBxx-1VL-40-IS-xx-22.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA_SBxx-1VL-40_UNBED_VDE-AR-N-4105-2018-EZE_U21-0054_DEU.pdf",
+                "bezeichnung": "SMA_SBxx-1VL-40_UNBED_VDE-AR-N-4105-2018-EZE_U21-0054_DEU.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/VDEARN4105-EZE-SBxx-1VL-40-de-11.pdf",
+                "bezeichnung": "VDEARN4105-EZE-SBxx-1VL-40-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_VDEARN4105_EZE_F3_SBxx-1VL-40-de-10.pdf",
+                "bezeichnung": "ZE_VDEARN4105_EZE_F3_SBxx-1VL-40-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_VDEARN4105_NA-Schutz_F4_SBxx-1VL-40_de_10.pdf",
+                "bezeichnung": "ZE_VDEARN4105_NA-Schutz_F4_SBxx-1VL-40_de_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_VDE0126_SBxx-VL-40_de_11.pdf",
+                "bezeichnung": "ZE_VDE0126_SBxx-VL-40_de_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_TOR_D4_SBxx-1VL-40_de_11.pdf",
+                "bezeichnung": "ZE_TOR_D4_SBxx-1VL-40_de_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_SBxx1VL-40_UNBED_TOR Erzeuger TypA-de-10.pdf",
+                "bezeichnung": "ZE_SBxx1VL-40_UNBED_TOR Erzeuger TypA-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/VDEARN4105-NSProtect-SBxx-1VL-40-de-ZE-10.pdf",
+                "bezeichnung": "VDEARN4105-NSProtect-SBxx-1VL-40-de-ZE-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA_SBxx-1VL-40_UNBED_VDE-AR-N-4105-2018-NA_U21-0053_DEU.pdf",
+                "bezeichnung": "SMA_SBxx-1VL-40_UNBED_VDE-AR-N-4105-2018-NA_U21-0053_DEU.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_IEC62109_SBxx-1VL-40_en_12.pdf",
+                "bezeichnung": "ZE_IEC62109_SBxx-1VL-40_en_12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/VDEARN4105-NSProtect-SBxx-1VL-40-en-ZE-10.pdf",
+                "bezeichnung": "VDEARN4105-NSProtect-SBxx-1VL-40-en-ZE-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_VDE0126_SBxx-VL-40_en_11.pdf",
+                "bezeichnung": "ZE_VDE0126_SBxx-VL-40_en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EN50549-SBxx-1VL-40-irl-10.pdf",
+                "bezeichnung": "EN50549-SBxx-1VL-40-irl-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/IEC61683-SBxx-1VL-40-ZE-en-11.pdf",
+                "bezeichnung": "IEC61683-SBxx-1VL-40-ZE-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_IEC61727_SBxx-1VL-40_en_11.pdf",
+                "bezeichnung": "ZE_IEC61727_SBxx-1VL-40_en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_NRS097_CoC_SBxx-1VL-40_en_11.pdf",
+                "bezeichnung": "ZE_NRS097_CoC_SBxx-1VL-40_en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_EN50438_2013_SBxx-1VL-40-en-11.pdf",
+                "bezeichnung": "ZE_EN50438_2013_SBxx-1VL-40-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EN50549-SBxx-1VL-40-en-11.pdf",
+                "bezeichnung": "EN50549-SBxx-1VL-40-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_AS60947_SAA202733-EA_SB15-1VL-40-en-10.pdf",
+                "bezeichnung": "ZE_AS60947_SAA202733-EA_SB15-1VL-40-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_AS4777_CoS_SAA162221_SBxx-1VL-40_en_11.pdf",
+                "bezeichnung": "ZE_AS4777_CoS_SAA162221_SBxx-1VL-40_en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EMC-SBxx-1VL-40-ZE-en-11.pdf",
+                "bezeichnung": "EMC-SBxx-1VL-40-ZE-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_G83-2_SBxx-1VL-40_en_13.pdf",
+                "bezeichnung": "ZE_G83-2_SBxx-1VL-40_en_13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/G98-1-SBx-1VL-40-ZE-en-10.pdf",
+                "bezeichnung": "G98-1-SBx-1VL-40-ZE-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_SBxx-1VL-40_G98-UK-en-10.pdf",
+                "bezeichnung": "ZE_SBxx-1VL-40_G98-UK-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_SBxx-1VL-40_G98-NI-en-10.pdf",
+                "bezeichnung": "ZE_SBxx-1VL-40_G98-NI-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/G99-1-SBx-1VL-40-ZE-en-10.pdf",
+                "bezeichnung": "G99-1-SBx-1VL-40-ZE-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/G98-1-SBxx-1VL-40-ZE-en-10.pdf",
+                "bezeichnung": "G98-1-SBxx-1VL-40-ZE-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_GSE_Made-in-EU_SB-SBS-STP-SI-SC-SCS_en_19.pdf",
+                "bezeichnung": "ZE_GSE_Made-in-EU_SB-SBS-STP-SI-SC-SCS_en_19.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_DCInjection_SUM_SB1_5_2_5-1VL-40_en_10.pdf",
+                "bezeichnung": "ZE_DCInjection_SUM_SB1_5_2_5-1VL-40_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/VDEARN4105-EZE-SBxx-1VL-40-en-11.pdf",
+                "bezeichnung": "VDEARN4105-EZE-SBxx-1VL-40-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/5-year-extended-warranty_DE.pdf",
+                "bezeichnung": "5-year-extended-warranty_DE.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA-TCWC-de-17.pdf",
+                "bezeichnung": "SMA-TCWC-de-17.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-de_mow-71.pdf",
+                "bezeichnung": "BGV-de_mow-71.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-de-71.pdf",
+                "bezeichnung": "BGV-de-71.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-Flex-de-19.pdf",
+                "bezeichnung": "BGV-Flex-de-19.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-Flex-de_mow-19.pdf",
+                "bezeichnung": "BGV-Flex-de_mow-19.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMART-CONNECTED-TaC-de-27.pdf",
+                "bezeichnung": "SMART-CONNECTED-TaC-de-27.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/COM-RES-GB-de-87.pdf",
+                "bezeichnung": "COM-RES-GB-de-87.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA-TCWC-en-17.pdf",
+                "bezeichnung": "SMA-TCWC-en-17.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-en-69.pdf",
+                "bezeichnung": "BGV-en-69.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-en_uk-71.pdf",
+                "bezeichnung": "BGV-en_uk-71.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-Flex-en-19.pdf",
+                "bezeichnung": "BGV-Flex-en-19.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-Flex-en_uk-19.pdf",
+                "bezeichnung": "BGV-Flex-en_uk-19.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMART-CONNECTED-TaC-en-27.pdf",
+                "bezeichnung": "SMART-CONNECTED-TaC-en-27.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/COM-RES-GB-en-87.pdf",
+                "bezeichnung": "COM-RES-GB-en-87.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Isolationsfehler-TI-de-10.pdf",
+                "bezeichnung": "Isolationsfehler-TI-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Compatibility-HBS-TI-de-11.pdf",
+                "bezeichnung": "Compatibility-HBS-TI-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Replacement-units-de-10.pdf",
+                "bezeichnung": "Replacement-units-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZeroFeedIn-PL-de-12.pdf",
+                "bezeichnung": "ZeroFeedIn-PL-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SI-HoMan-PL-de-53.pdf",
+                "bezeichnung": "SI-HoMan-PL-de-53.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA_Passwortrichtlinie-de-10.pdf",
+                "bezeichnung": "SMA_Passwortrichtlinie-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EIFS_2_2018_Paraeinst-TI-de-16.pdf",
+                "bezeichnung": "EIFS_2_2018_Paraeinst-TI-de-16.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-11.pdf",
+                "bezeichnung": "NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Impedanz-175Hz-TI-de-39.pdf",
+                "bezeichnung": "Impedanz-175Hz-TI-de-39.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Grounding-PV-Inverter-TI-de-10.pdf",
+                "bezeichnung": "Grounding-PV-Inverter-TI-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Ableitstrom-TI-de-26.pdf",
+                "bezeichnung": "Ableitstrom-TI-de-26.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/RCD-TI-de-45.pdf",
+                "bezeichnung": "RCD-TI-de-45.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/LSS-TI-de-46.pdf",
+                "bezeichnung": "LSS-TI-de-46.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/CyberSecurity-TI-de-20.pdf",
+                "bezeichnung": "CyberSecurity-TI-de-20.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/NSM-GG10-TI-de-21.pdf",
+                "bezeichnung": "NSM-GG10-TI-de-21.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA-Modbus-TI-de-10.pdf",
+                "bezeichnung": "SMA-Modbus-TI-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PN_EN50549-1-Paraeinst-TI-de-10.pdf",
+                "bezeichnung": "PN_EN50549-1-Paraeinst-TI-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/WirkungDerat-TI-de-54.pdf",
+                "bezeichnung": "WirkungDerat-TI-de-54.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/GridConfiguration-TI-de-38.pdf",
+                "bezeichnung": "GridConfiguration-TI-de-38.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/U_Schutz-TI-de-13.pdf",
+                "bezeichnung": "U_Schutz-TI-de-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA-ASNZS4777-2-2020-SB-STP-Core1-en-au-20.pdf",
+                "bezeichnung": "SMA-ASNZS4777-2-2020-SB-STP-Core1-en-au-20.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Compatibility-HBS-TI-en-11.pdf",
+                "bezeichnung": "Compatibility-HBS-TI-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SB1_5-2_5_CountrySettings_FW2-03-02-R.zip",
+                "bezeichnung": "SB1_5-2_5_CountrySettings_FW2-03-02-R.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Isolationsfehler-TI-en-10.pdf",
+                "bezeichnung": "Isolationsfehler-TI-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/U_Schutz-TI-en-13.pdf",
+                "bezeichnung": "U_Schutz-TI-en-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZeroFeedIn-PL-en-12.pdf",
+                "bezeichnung": "ZeroFeedIn-PL-en-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SI-HoMan-PL-en-53.pdf",
+                "bezeichnung": "SI-HoMan-PL-en-53.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA_Passwortrichtlinie-en-10.pdf",
+                "bezeichnung": "SMA_Passwortrichtlinie-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EIFS_2_2018_Paraeinst-TI-en-16.pdf",
+                "bezeichnung": "EIFS_2_2018_Paraeinst-TI-en-16.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/LSS-TI-en-46.pdf",
+                "bezeichnung": "LSS-TI-en-46.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/GridConfiguration-TI-en-38.pdf",
+                "bezeichnung": "GridConfiguration-TI-en-38.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Grounding-PV-Inverter-TI-en-10.pdf",
+                "bezeichnung": "Grounding-PV-Inverter-TI-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/RCD-TI-en-45.pdf",
+                "bezeichnung": "RCD-TI-en-45.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/WirkungDerat-TI-en-54.pdf",
+                "bezeichnung": "WirkungDerat-TI-en-54.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Impedanz-175Hz-TI-en-39.pdf",
+                "bezeichnung": "Impedanz-175Hz-TI-en-39.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Ableitstrom-TI-en-26.pdf",
+                "bezeichnung": "Ableitstrom-TI-en-26.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/CyberSecurity-TI-en-20.pdf",
+                "bezeichnung": "CyberSecurity-TI-en-20.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/NSM-GG10-TI-en-21.pdf",
+                "bezeichnung": "NSM-GG10-TI-en-21.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PN_EN50549-1-Paraeinst-TI-en-10.pdf",
+                "bezeichnung": "PN_EN50549-1-Paraeinst-TI-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/GN98NI-TypeA-Parasetting-TI-en-10.pdf",
+                "bezeichnung": "GN98NI-TypeA-Parasetting-TI-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA-Modbus-TI-en-10.pdf",
+                "bezeichnung": "SMA-Modbus-TI-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Leaflet_CyberSecurity_DE_250815_01.pdf",
+                "bezeichnung": "Leaflet_CyberSecurity_DE_250815_01.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Brochure_SMA_Home_Energy-Solution-de_250331_01.pdf",
+                "bezeichnung": "Brochure_SMA_Home_Energy-Solution-de_250331_01.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Garantieverlaengerung_DACH_240321_01.pdf",
+                "bezeichnung": "Garantieverlaengerung_DACH_240321_01.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SHADEFIX_WHITEPAPER-de_210127.pdf",
+                "bezeichnung": "SHADEFIX_WHITEPAPER-de_210127.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Leaflet_CyberSecurity_EN_250815_01.pdf",
+                "bezeichnung": "Leaflet_CyberSecurity_EN_250815_01.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Brochure_SMA_Energy-System_Home-en-14.pdf",
+                "bezeichnung": "Brochure_SMA_Energy-System_Home-en-14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Brochure_SMA_Home_Energy-Solution-en_250331_01.pdf",
+                "bezeichnung": "Brochure_SMA_Home_Energy-Solution-en_250331_01.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMARTCONN_AD-en_au-10.pdf",
+                "bezeichnung": "SMARTCONN_AD-en_au-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SmartScreen_SB_SBS_STP-en-11.pdf",
+                "bezeichnung": "SmartScreen_SB_SBS_STP-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SHADEFIX_WHITEPAPER-eu_200417.pdf",
+                "bezeichnung": "SHADEFIX_WHITEPAPER-eu_200417.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EU-REACH-70-SVHC-accessory-kit-SB15-25-40-85-101600-01-01-en-10.pdf",
+                "bezeichnung": "EU-REACH-70-SVHC-accessory-kit-SB15-25-40-85-101600-01-01-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EU-REACH-71-SVHC-accessory-kit-SB15-25-40-en-10.pdf",
+                "bezeichnung": "EU-REACH-71-SVHC-accessory-kit-SB15-25-40-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://d3yvy865gav9f.cloudfront.net/asset/851725204959/document_4o2gatgbpl46948glbrmvkfe69/GTCD_AG_DE.pdf?content-disposition=inline",
+                "bezeichnung": "Allgemeine Lieferbedingungen für deutsche Kunden",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://d3yvy865gav9f.cloudfront.net/asset/851725204959/document_b64avpoh8h29tb5ajmh83i9p4s/GTCD-INT_AG_EN_DE_202411v2.pdf?content-disposition=inline",
+                "bezeichnung": "Allgemeine Lieferbedingungen für Kunden außerhalb von Deutschland",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://d3yvy865gav9f.cloudfront.net/asset/851725204959/document_ojca287ke95kdcld559dr59g0u/GTCP_AG_DE_202506.pdf?content-disposition=inline",
+                "bezeichnung": "Allgemeine Einkaufsbedingungen",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://d3yvy865gav9f.cloudfront.net/asset/851725204959/document_ik7hnivibt1k940647t9sdon5c/Allgemeine-Testbedingungen-ATB-SMA-Testlabore.pdf?content-disposition=inline",
+                "bezeichnung": "Allgemeine Testbedingungen der SMA Testlabore",
+                "typ": "NEU"
+            }
+        ]
+    }
+]

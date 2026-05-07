@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>SMA Sunny Boy Monitor</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background: #f4f7f6; }
+        h1 { color: #2c3e50; }
+        .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px; overflow-x: auto; }
+        .history-card { border-left: 5px solid #e67e22; } /* Orange Markierung für News */
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; min-width: 800px; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #eee; vertical-align: top; }
+        th { background: #3498db; color: white; position: sticky; top: 0; }
+        tr:hover { background: #f1f1f1; }
+        .status { font-size: 0.9em; color: #7f8c8d; margin-top: 10px; }
+        .neu-tag { color: #27ae60; font-weight: bold; }
+        .update-tag { color: #e67e22; font-weight: bold; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+    <h1>SMA Sunny Boy Monitor</h1>
+    <p><strong>Überwachte Seite:</strong> <a href="https://www.sma.de/produkte/solar-wechselrichter/sunny-boy-15-20-25" target="_blank">Sunny Boy 1.5 / 2.0 / 2.5</a></p>
+
+    <div class="card history-card">
+        <h2>🕒 Letzte Änderungen</h2>
+        <div id="history-inhalt">Suche nach Änderungen...</div>
+    </div>
+
+    <div class="card">
+        <h2>Aktuelle Dokumente und Downloads</h2>
+        <div id="loading">Lade Daten...</div>
+        <table id="tabelle" style="display:none;">
+            <thead>
+                <tr>
+                    <th>Titel</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody id="inhalt"></tbody>
+        </table>
+        <p class="status" id="zeitstempel"></p>
+    </div>
+
+    <script>
+    // 1. HISTORIE LADEN
+    fetch('history.json')
+        .then(res => res.json())
+        .then(historyData => {
+            const container = document.getElementById('history-inhalt');
+            if (!historyData || historyData.length === 0) {
+                container.innerText = "Noch keine Änderungen aufgezeichnet.";
+                return;
+            }
+            let html = "";
+            historyData.forEach(tag => {
+                html += `<p><strong>${tag.datum}:</strong> `;
+
+                if (tag.funde.length === 0) {
+                    html += `<span style="color: #7f8c8d; font-style: italic;">✅ Scan durchgeführt, keine Änderungen.</span>`;
+                } else {
+                    tag.funde.forEach(f => {
+                        const klasse = f.typ === 'NEU' ? 'neu-tag' : 'update-tag';
+                        html += `<br><span class="${klasse}">[${f.typ}]</span> ${f.bezeichnung} (<a href="${f.url}" target="_blank">Link</a>)`;
+                    });
+                }
+                html += `</p>`;
+            });
+            container.innerHTML = html;
+        }).catch(() => {
+            document.getElementById('history-inhalt').innerText = "Historie wird nach dem nächsten Scan verfügbar sein.";
+        });
+
+        // 2. HAUPTDATEN LADEN
+        fetch('sma_daten.json')
+            .then(res => res.json())
+            .then(data => {
+                const tbody = document.getElementById('inhalt');
+                for (const [url, info] of Object.entries(data)) {
+                    tbody.innerHTML += `<tr>
+                        <td><strong>${info.Titel}</strong></td>
+                        <td><a href="${info.Link}" target="_blank">${info.Link.length > 80 ? info.Link.substring(0, 77) + '...' : info.Link}</a></td>
+                    </tr>`;
+                }
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('tabelle').style.display = 'table';
+                document.getElementById('zeitstempel').innerText = 'Letzter Scan: ' + new Date().toLocaleString();
+            });
+    </script>
+</body>
+</html>
