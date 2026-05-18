@@ -16,7 +16,10 @@ def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-URL = "https://www.sma.de/produkte/solar-wechselrichter/sunny-boy-15-20-25"
+URLS = [
+    "https://www.sma.de/produkte/solar-wechselrichter/sunny-boy-15-20-25",
+    "https://www.sma.de/produkte/solar-wechselrichter/sunny-tripower-x-60"
+]
 DATEN_DATEI = "sma_daten.json"
 HISTORY_DATEI = "history.json"
 
@@ -55,7 +58,9 @@ def extrahiere_links(html):
     return ergebnisse
 
 async def hole_daten():
-    print(f"🚀 Starte Browser für SMA Sunny Boy...")
+    print(f"🚀 Starte Browser für SMA Überwachung...")
+
+    alle_daten = {}
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
@@ -64,19 +69,21 @@ async def hole_daten():
         )
         page = await context.new_page()
 
-        try:
-            await page.goto(URL, wait_until="networkidle", timeout=60000)
-            await page.wait_for_timeout(5000) # Give it some time to render JS
-            html = await page.content()
-            daten = extrahiere_links(html)
-            print(f"   => {len(daten)} Downloads/Links gefunden.")
-        except Exception as e:
-            print(f"⚠️ Fehler beim Abrufen der Seite: {e}")
-            daten = {}
+        for url in URLS:
+            print(f"   Lade Seite: {url}")
+            try:
+                await page.goto(url, wait_until="networkidle", timeout=60000)
+                await page.wait_for_timeout(5000) # Give it some time to render JS
+                html = await page.content()
+                daten = extrahiere_links(html)
+                print(f"   => {len(daten)} Downloads/Links auf {url} gefunden.")
+                alle_daten.update(daten)
+            except Exception as e:
+                print(f"⚠️ Fehler beim Abrufen der Seite {url}: {e}")
 
         await browser.close()
 
-    return daten
+    return alle_daten
 
 async def main():
     neue_daten = await hole_daten()
