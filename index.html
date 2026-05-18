@@ -21,8 +21,11 @@
 </head>
 <body>
 
-    <h1>SMA Sunny Boy Monitor</h1>
-    <p><strong>Überwachte Seite:</strong> <a href="https://www.sma.de/produkte/solar-wechselrichter/sunny-boy-15-20-25" target="_blank">Sunny Boy 1.5 / 2.0 / 2.5</a></p>
+    <h1>SMA Monitor</h1>
+    <p><strong>Überwachte Seiten:</strong>
+        <a href="https://www.sma.de/produkte/solar-wechselrichter/sunny-boy-15-20-25" target="_blank">Sunny Boy 1.5 / 2.0 / 2.5</a>,
+        <a href="https://www.sma.de/produkte/solar-wechselrichter/sunny-tripower-x-60" target="_blank">Sunny Tripower X 60</a>
+    </p>
 
     <div class="card history-card">
         <h2>🕒 Letzte Änderungen</h2>
@@ -47,46 +50,99 @@
     <script>
     // 1. HISTORIE LADEN
     fetch('history.json')
-        .then(res => res.json())
+        .then(res => {
+            if (!res.ok) {
+                throw new Error('Netzwerkantwort war nicht ok: ' + res.statusText);
+            }
+            return res.json();
+        })
         .then(historyData => {
             const container = document.getElementById('history-inhalt');
+            container.innerHTML = ''; // Clear container safely
+
             if (!historyData || historyData.length === 0) {
-                container.innerText = "Noch keine Änderungen aufgezeichnet.";
+                container.textContent = "Noch keine Änderungen aufgezeichnet.";
                 return;
             }
-            let html = "";
+
             historyData.forEach(tag => {
-                html += `<p><strong>${tag.datum}:</strong> `;
+                const p = document.createElement('p');
+
+                const strong = document.createElement('strong');
+                strong.textContent = tag.datum + ': ';
+                p.appendChild(strong);
 
                 if (tag.funde.length === 0) {
-                    html += `<span style="color: #7f8c8d; font-style: italic;">✅ Scan durchgeführt, keine Änderungen.</span>`;
+                    const span = document.createElement('span');
+                    span.style.color = '#7f8c8d';
+                    span.style.fontStyle = 'italic';
+                    span.textContent = '✅ Scan durchgeführt, keine Änderungen.';
+                    p.appendChild(span);
                 } else {
                     tag.funde.forEach(f => {
-                        const klasse = f.typ === 'NEU' ? 'neu-tag' : 'update-tag';
-                        html += `<br><span class="${klasse}">[${f.typ}]</span> ${f.bezeichnung} (<a href="${f.url}" target="_blank">Link</a>)`;
+                        p.appendChild(document.createElement('br'));
+
+                        const span = document.createElement('span');
+                        span.className = f.typ === 'NEU' ? 'neu-tag' : 'update-tag';
+                        span.textContent = `[${f.typ}] `;
+                        p.appendChild(span);
+
+                        p.appendChild(document.createTextNode(f.bezeichnung + ' ('));
+
+                        const a = document.createElement('a');
+                        a.href = f.url;
+                        a.target = '_blank';
+                        a.textContent = 'Link';
+                        p.appendChild(a);
+
+                        p.appendChild(document.createTextNode(')'));
                     });
                 }
-                html += `</p>`;
+                container.appendChild(p);
             });
-            container.innerHTML = html;
-        }).catch(() => {
-            document.getElementById('history-inhalt').innerText = "Historie wird nach dem nächsten Scan verfügbar sein.";
+        }).catch(err => {
+            console.error('Fehler beim Laden der Historie:', err);
+            document.getElementById('history-inhalt').textContent = "Fehler beim Laden der Historie oder noch nicht verfügbar.";
         });
 
         // 2. HAUPTDATEN LADEN
         fetch('sma_daten.json')
-            .then(res => res.json())
+            .then(res => {
+                if (!res.ok) {
+                    throw new Error('Netzwerkantwort war nicht ok: ' + res.statusText);
+                }
+                return res.json();
+            })
             .then(data => {
                 const tbody = document.getElementById('inhalt');
+                tbody.innerHTML = ''; // clear initial content
+
                 for (const [url, info] of Object.entries(data)) {
-                    tbody.innerHTML += `<tr>
-                        <td><strong>${info.Titel}</strong></td>
-                        <td><a href="${info.Link}" target="_blank">${info.Link.length > 80 ? info.Link.substring(0, 77) + '...' : info.Link}</a></td>
-                    </tr>`;
+                    const tr = document.createElement('tr');
+
+                    const tdTitle = document.createElement('td');
+                    const strongTitle = document.createElement('strong');
+                    strongTitle.textContent = info.Titel;
+                    tdTitle.appendChild(strongTitle);
+                    tr.appendChild(tdTitle);
+
+                    const tdLink = document.createElement('td');
+                    const aLink = document.createElement('a');
+                    aLink.href = info.Link;
+                    aLink.target = '_blank';
+                    aLink.textContent = info.Link.length > 80 ? info.Link.substring(0, 77) + '...' : info.Link;
+                    tdLink.appendChild(aLink);
+                    tr.appendChild(tdLink);
+
+                    tbody.appendChild(tr);
                 }
                 document.getElementById('loading').style.display = 'none';
                 document.getElementById('tabelle').style.display = 'table';
-                document.getElementById('zeitstempel').innerText = 'Letzter Scan: ' + new Date().toLocaleString();
+                document.getElementById('zeitstempel').textContent = 'Letzter Scan: ' + new Date().toLocaleString();
+            })
+            .catch(err => {
+                console.error('Fehler beim Laden der Daten:', err);
+                document.getElementById('loading').textContent = "Fehler beim Laden der Daten.";
             });
     </script>
 </body>

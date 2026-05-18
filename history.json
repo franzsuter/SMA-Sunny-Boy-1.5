@@ -1,5 +1,175 @@
 [
     {
+        "datum": "18.05.2026 07:58",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/STPxx-80-DS-de-11.pdf",
+                "bezeichnung": "STPxx-80-DS-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxx-80-DS-en-11.pdf",
+                "bezeichnung": "STPxx-80-DS-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_STP_SHP_Schutz_ARN4110_de_14.pdf",
+                "bezeichnung": "HK_STP_SHP_Schutz_ARN4110_de_14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK-STPxx-80-NA-EEA-NE7-de-10.pdf",
+                "bezeichnung": "HK-STPxx-80-NA-EEA-NE7-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_STPxx-80_EIFS_2_2018_en-10.pdf",
+                "bezeichnung": "HK_STPxx-80_EIFS_2_2018_en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Cyber_ EN18031-1-EN303645 _en_12.pdf",
+                "bezeichnung": "HK_Cyber_ EN18031-1-EN303645 _en_12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_STP_SHP_Schutz_ARN4110_en_14.pdf",
+                "bezeichnung": "HK_STP_SHP_Schutz_ARN4110_en_14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_CE_STPxx-80_de_11.pdf",
+                "bezeichnung": "HK_CE_STPxx-80_de_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_CE_STPxx-80_en_11.pdf",
+                "bezeichnung": "HK_CE_STPxx-80_en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxx-80_FW03-16-29.R.zip",
+                "bezeichnung": "STPxx-80_FW03-16-29.R.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PARAMETER-STPxx-80_03-16-59-R.zip",
+                "bezeichnung": "PARAMETER-STPxx-80_03-16-59-R.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ennexOS-BA-de-10.pdf",
+                "bezeichnung": "ennexOS-BA-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxx-80-BE-de-10.pdf",
+                "bezeichnung": "STPxx-80-BE-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxx-80-BE-en-10.pdf",
+                "bezeichnung": "STPxx-80-BE-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ennexOS-BA-en-10.pdf",
+                "bezeichnung": "ennexOS-BA-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxx-80-ISP-xx-10.pdf",
+                "bezeichnung": "STPxx-80-ISP-xx-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxx-80-ISS-xx-10.pdf",
+                "bezeichnung": "STPxx-80-ISS-xx-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_AR-N 4105_de_10.pdf",
+                "bezeichnung": "ZE_STPxx-80_AR-N 4105_de_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_AR-N 4105_NA_de_10.pdf",
+                "bezeichnung": "ZE_STPxx-80_AR-N 4105_NA_de_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_EMC_en_10.pdf",
+                "bezeichnung": "ZE_STPxx-80_EMC_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_EN50549-1-en-10.pdf",
+                "bezeichnung": "ZE_STPxx-80_EN50549-1-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_EN50549-2-en-10.pdf",
+                "bezeichnung": "ZE_STPxx-80_EN50549-2-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_G99NI_en_10.pdf",
+                "bezeichnung": "ZE_STPxx-80_G99NI_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_G99_en_10.pdf",
+                "bezeichnung": "ZE_STPxx-80_G99_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPx0-80_IEC61727_62116-en-10.pdf",
+                "bezeichnung": "ZE_STPx0-80_IEC61727_62116-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPx0-80_IEC62109_en_10.pdf",
+                "bezeichnung": "ZE_STPx0-80_IEC62109_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_IEC63027-en-10.pdf",
+                "bezeichnung": "ZE_STPxx-80_IEC63027-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_IEC60068-en-10.pdf",
+                "bezeichnung": "ZE_STPxx-80_IEC60068-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_IEC61683-en-10.pdf",
+                "bezeichnung": "ZE_STPxx-80_IEC61683-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_TOR_en_10.pdf",
+                "bezeichnung": "ZE_STPxx-80_TOR_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPx-80_Proto_AR-N 41x0_de_10.pdf",
+                "bezeichnung": "ZE_STPx-80_Proto_AR-N 41x0_de_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PL - Systemlösungen für gewerbliche Anwendungen.pdf",
+                "bezeichnung": "PL - Systemlösungen für gewerbliche Anwendungen.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PL – System Solutions for Commercial Applications.pdf",
+                "bezeichnung": "PL – System Solutions for Commercial Applications.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "17.05.2026 09:47",
         "funde": []
     },
