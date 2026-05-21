@@ -1,5 +1,20 @@
 [
     {
+        "datum": "21.05.2026 11:27",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/ennexOS-BA-de-11.pdf",
+                "bezeichnung": "ennexOS-BA-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ennexOS-BA-en-11.pdf",
+                "bezeichnung": "ennexOS-BA-en-11.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "20.05.2026 10:51",
         "funde": []
     },
