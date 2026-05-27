@@ -1,5 +1,15 @@
 [
     {
+        "datum": "27.05.2026 11:38",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_DEWA_en_10.pdf",
+                "bezeichnung": "ZE_STPxx-80_DEWA_en_10.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "25.05.2026 11:54",
         "funde": []
     },
