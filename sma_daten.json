@@ -79,13 +79,13 @@
         "Titel": "HK_Komponenten-Speicherprogramm_RLP-de-11.pdf",
         "Link": "https://files.sma.de/downloads/HK_Komponenten-Speicherprogramm_RLP-de-11.pdf"
     },
-    "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf": {
-        "Titel": "SolarInvest-TH_SI-HK-de-13.pdf",
-        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf"
-    },
     "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf": {
         "Titel": "SolarInvest-TH_SBS-HK-de-13.pdf",
         "Link": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf"
+    },
+    "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf": {
+        "Titel": "SolarInvest-TH_SI-HK-de-13.pdf",
+        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf"
     },
     "https://files.sma.de/downloads/RCD-Typ-A-HK-de-18.pdf": {
         "Titel": "RCD-Typ-A-HK-de-18.pdf",
@@ -403,9 +403,9 @@
         "Titel": "SMART-CONNECTED-TaC-de-27.pdf",
         "Link": "https://files.sma.de/downloads/SMART-CONNECTED-TaC-de-27.pdf"
     },
-    "https://files.sma.de/downloads/COM-RES-GB-de-87.pdf": {
-        "Titel": "COM-RES-GB-de-87.pdf",
-        "Link": "https://files.sma.de/downloads/COM-RES-GB-de-87.pdf"
+    "https://files.sma.de/downloads/COM-RES-GB-de-88.pdf": {
+        "Titel": "COM-RES-GB-de-88.pdf",
+        "Link": "https://files.sma.de/downloads/COM-RES-GB-de-88.pdf"
     },
     "https://files.sma.de/downloads/SMA-TCWC-en-17.pdf": {
         "Titel": "SMA-TCWC-en-17.pdf",
@@ -491,9 +491,9 @@
         "Titel": "CyberSecurity-TI-de-20.pdf",
         "Link": "https://files.sma.de/downloads/CyberSecurity-TI-de-20.pdf"
     },
-    "https://files.sma.de/downloads/NSM-GG10-TI-de-21.pdf": {
-        "Titel": "NSM-GG10-TI-de-21.pdf",
-        "Link": "https://files.sma.de/downloads/NSM-GG10-TI-de-21.pdf"
+    "https://files.sma.de/downloads/NSM-GG10-TI-de-22.pdf": {
+        "Titel": "NSM-GG10-TI-de-22.pdf",
+        "Link": "https://files.sma.de/downloads/NSM-GG10-TI-de-22.pdf"
     },
     "https://files.sma.de/downloads/SMA-Modbus-TI-de-10.pdf": {
         "Titel": "SMA-Modbus-TI-de-10.pdf",
@@ -583,9 +583,9 @@
         "Titel": "CyberSecurity-TI-en-20.pdf",
         "Link": "https://files.sma.de/downloads/CyberSecurity-TI-en-20.pdf"
     },
-    "https://files.sma.de/downloads/NSM-GG10-TI-en-21.pdf": {
-        "Titel": "NSM-GG10-TI-en-21.pdf",
-        "Link": "https://files.sma.de/downloads/NSM-GG10-TI-en-21.pdf"
+    "https://files.sma.de/downloads/NSM-GG10-TI-en-22.pdf": {
+        "Titel": "NSM-GG10-TI-en-22.pdf",
+        "Link": "https://files.sma.de/downloads/NSM-GG10-TI-en-22.pdf"
     },
     "https://files.sma.de/downloads/PN_EN50549-1-Paraeinst-TI-en-10.pdf": {
         "Titel": "PN_EN50549-1-Paraeinst-TI-en-10.pdf",
