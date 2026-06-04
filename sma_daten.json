@@ -803,8 +803,16 @@
         "Titel": "PL - Systemlösungen für gewerbliche Anwendungen.pdf",
         "Link": "https://files.sma.de/downloads/PL - Systemlösungen für gewerbliche Anwendungen.pdf"
     },
+    "https://files.sma.de/downloads/Iscpv-TI-de-24.pdf": {
+        "Titel": "Iscpv-TI-de-24.pdf",
+        "Link": "https://files.sma.de/downloads/Iscpv-TI-de-24.pdf"
+    },
     "https://files.sma.de/downloads/PL – System Solutions for Commercial Applications.pdf": {
         "Titel": "PL – System Solutions for Commercial Applications.pdf",
         "Link": "https://files.sma.de/downloads/PL – System Solutions for Commercial Applications.pdf"
+    },
+    "https://files.sma.de/downloads/Iscpv-TI-en-24.pdf": {
+        "Titel": "Iscpv-TI-en-24.pdf",
+        "Link": "https://files.sma.de/downloads/Iscpv-TI-en-24.pdf"
     }
 }
