@@ -1,5 +1,9 @@
 [
     {
+        "datum": "08.06.2026 12:29",
+        "funde": []
+    },
+    {
         "datum": "07.06.2026 10:30",
         "funde": []
     },
@@ -341,50 +345,5 @@
     {
         "datum": "10.05.2026 09:28",
         "funde": []
-    },
-    {
-        "datum": "09.05.2026 09:20",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/BGV-de_mow-72.pdf",
-                "bezeichnung": "BGV-de_mow-72.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/BGV-de-72.pdf",
-                "bezeichnung": "BGV-de-72.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/BGV-Flex-de-20.pdf",
-                "bezeichnung": "BGV-Flex-de-20.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/BGV-Flex-de_mow-20.pdf",
-                "bezeichnung": "BGV-Flex-de_mow-20.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/BGV-en-70.pdf",
-                "bezeichnung": "BGV-en-70.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/BGV-en_uk-72.pdf",
-                "bezeichnung": "BGV-en_uk-72.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/BGV-Flex-en-20.pdf",
-                "bezeichnung": "BGV-Flex-en-20.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/BGV-Flex-en_uk-20.pdf",
-                "bezeichnung": "BGV-Flex-en_uk-20.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
