@@ -1,5 +1,160 @@
 [
     {
+        "datum": "11.06.2026 14:48",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/eCharger-DS-de-21.pdf",
+                "bezeichnung": "eCharger-DS-de-21.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/eCharger-DS-en-21.pdf",
+                "bezeichnung": "eCharger-DS-en-21.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EV-Charger Begrenzung-Ladeleistung-de_11.pdf",
+                "bezeichnung": "HK_EV-Charger Begrenzung-Ladeleistung-de_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EV-Charger-Blackout-Schutz-de-12.pdf",
+                "bezeichnung": "HK_EV-Charger-Blackout-Schutz-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EV-Charger-RCD-Typ A-de_11.pdf",
+                "bezeichnung": "HK_EV-Charger-RCD-Typ A-de_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EV-Charger-Lastmanagement-de_11.pdf",
+                "bezeichnung": "HK_EV-Charger-Lastmanagement-de_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EV-Charger-EnWG-14a-HK-de-12.pdf",
+                "bezeichnung": "HK_EV-Charger-EnWG-14a-HK-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EV-Charger-Lastmanagement-en_11.pdf",
+                "bezeichnung": "HK_EV-Charger-Lastmanagement-en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EV-Charger-Blackout-Schutz-en-12.pdf",
+                "bezeichnung": "HK_EV-Charger-Blackout-Schutz-en-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EV-Charger-RCD-Typ-A-en_11.pdf",
+                "bezeichnung": "HK_EV-Charger-RCD-Typ-A-en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EV-Charger Begrenzung-Ladeleistung-en_11.pdf",
+                "bezeichnung": "HK_EV-Charger Begrenzung-Ladeleistung-en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EVC22-3AC-20_CE_de_12.pdf",
+                "bezeichnung": "HK_EVC22-3AC-20_CE_de_12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EVC22-3AC-20_CE_en_12.pdf",
+                "bezeichnung": "HK_EVC22-3AC-20_CE_en_12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMAModbus-ennexOS-TI-de-12.pdf",
+                "bezeichnung": "SMAModbus-ennexOS-TI-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMAModbus-ennexOS-TI-en-13.pdf",
+                "bezeichnung": "SMAModbus-ennexOS-TI-en-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PP-IEC 61851-de-10.pdf",
+                "bezeichnung": "PP-IEC 61851-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PP-IEC 61851-en-10.pdf",
+                "bezeichnung": "PP-IEC 61851-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EVC22-3AC-20_FW-V2-06-37-R.zip",
+                "bezeichnung": "EVC22-3AC-20_FW-V2-06-37-R.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/DynTarif-BA-de-13.pdf",
+                "bezeichnung": "DynTarif-BA-de-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EVC22-3AC-20-BE-de-13.pdf",
+                "bezeichnung": "EVC22-3AC-20-BE-de-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EVC22-3AC-20-BE-en-13.pdf",
+                "bezeichnung": "EVC22-3AC-20-BE-en-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EVC-CBL-HLD-10-IS-xx-10.pdf",
+                "bezeichnung": "EVC-CBL-HLD-10-IS-xx-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EVC22-3AC-20-PDSTL-IS-xx-11.pdf",
+                "bezeichnung": "EVC22-3AC-20-PDSTL-IS-xx-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EVC22-3AC-20-ISP-xx-11.pdf",
+                "bezeichnung": "EVC22-3AC-20-ISP-xx-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EVC22-3AC-20-ISS-xx-10.pdf",
+                "bezeichnung": "EVC22-3AC-20-ISS-xx-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Update-Support-TI-de-15.pdf",
+                "bezeichnung": "Update-Support-TI-de-15.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Update-Support-TI-en-15.pdf",
+                "bezeichnung": "Update-Support-TI-en-15.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Update-Support-UK-TI-en-10.pdf",
+                "bezeichnung": "Update-Support-UK-TI-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/240802_SMA_Home_eCharger_Leaflet_DE.pdf",
+                "bezeichnung": "240802_SMA_Home_eCharger_Leaflet_DE.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/240729_SMA_Home_eCharger_Leaflet_EN.pdf",
+                "bezeichnung": "240729_SMA_Home_eCharger_Leaflet_EN.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "11.06.2026 12:10",
         "funde": []
     },
@@ -340,10 +495,6 @@
     },
     {
         "datum": "14.05.2026 10:17",
-        "funde": []
-    },
-    {
-        "datum": "13.05.2026 10:29",
         "funde": []
     }
 ]
