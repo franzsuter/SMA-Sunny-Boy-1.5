@@ -1,5 +1,20 @@
 [
     {
+        "datum": "18.06.2026 11:51",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/Leaflet_CyberSecurity_DE_260612_01.pdf",
+                "bezeichnung": "Leaflet_CyberSecurity_DE_260612_01.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Leaflet_CyberSecurity_EN_260612_01.pdf",
+                "bezeichnung": "Leaflet_CyberSecurity_EN_260612_01.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "17.06.2026 12:17",
         "funde": []
     },
@@ -175,9 +190,5 @@
                 "typ": "NEU"
             }
         ]
-    },
-    {
-        "datum": "18.05.2026 11:45",
-        "funde": []
     }
 ]
