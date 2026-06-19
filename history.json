@@ -1,5 +1,15 @@
 [
     {
+        "datum": "19.06.2026 12:06",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/HK_Cyber_ EN18031-1-EN303645 _en_13.pdf",
+                "bezeichnung": "HK_Cyber_ EN18031-1-EN303645 _en_13.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "18.06.2026 11:51",
         "funde": [
             {
@@ -175,20 +185,5 @@
     {
         "datum": "20.05.2026 10:51",
         "funde": []
-    },
-    {
-        "datum": "19.05.2026 11:18",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/NA-Schutz_STP-HK-de-16.pdf",
-                "bezeichnung": "NA-Schutz_STP-HK-de-16.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/NA-Schutz_STP-HK-en-16.pdf",
-                "bezeichnung": "NA-Schutz_STP-HK-en-16.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
