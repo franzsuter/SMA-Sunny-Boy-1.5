@@ -1,5 +1,15 @@
 [
     {
+        "datum": "22.06.2026 13:35",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/HK_STPxx-80_PQ-Chraracteristic_en_10.pdf",
+                "bezeichnung": "HK_STPxx-80_PQ-Chraracteristic_en_10.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "21.06.2026 11:17",
         "funde": []
     },
@@ -169,10 +179,6 @@
     },
     {
         "datum": "23.05.2026 09:54",
-        "funde": []
-    },
-    {
-        "datum": "22.05.2026 10:51",
         "funde": []
     }
 ]
