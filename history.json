@@ -1,5 +1,20 @@
 [
     {
+        "datum": "26.06.2026 10:52",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-12.pdf",
+                "bezeichnung": "NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxx-80_FW03.16.65.R.zip",
+                "bezeichnung": "STPxx-80_FW03.16.65.R.zip",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "25.06.2026 10:42",
         "funde": []
     },
@@ -173,16 +188,6 @@
             {
                 "url": "https://files.sma.de/downloads/COM-RES-GB-en-88.pdf",
                 "bezeichnung": "COM-RES-GB-en-88.pdf",
-                "typ": "NEU"
-            }
-        ]
-    },
-    {
-        "datum": "27.05.2026 11:38",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/ZE_STPxx-80_DEWA_en_10.pdf",
-                "bezeichnung": "ZE_STPxx-80_DEWA_en_10.pdf",
                 "typ": "NEU"
             }
         ]

@@ -463,9 +463,9 @@
         "Titel": "EIFS_2_2018_Paraeinst-TI-de-16.pdf",
         "Link": "https://files.sma.de/downloads/EIFS_2_2018_Paraeinst-TI-de-16.pdf"
     },
-    "https://files.sma.de/downloads/NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-11.pdf": {
-        "Titel": "NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-11.pdf",
-        "Link": "https://files.sma.de/downloads/NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-11.pdf"
+    "https://files.sma.de/downloads/NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-12.pdf": {
+        "Titel": "NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-12.pdf",
+        "Link": "https://files.sma.de/downloads/NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-12.pdf"
     },
     "https://files.sma.de/downloads/Impedanz-175Hz-TI-de-39.pdf": {
         "Titel": "Impedanz-175Hz-TI-de-39.pdf",
@@ -714,6 +714,10 @@
     "https://files.sma.de/downloads/STPxx-80_FW03-16-29.R.zip": {
         "Titel": "STPxx-80_FW03-16-29.R.zip",
         "Link": "https://files.sma.de/downloads/STPxx-80_FW03-16-29.R.zip"
+    },
+    "https://files.sma.de/downloads/STPxx-80_FW03.16.65.R.zip": {
+        "Titel": "STPxx-80_FW03.16.65.R.zip",
+        "Link": "https://files.sma.de/downloads/STPxx-80_FW03.16.65.R.zip"
     },
     "https://files.sma.de/downloads/PARAMETER-STPxx-80_03-16-59-R.zip": {
         "Titel": "PARAMETER-STPxx-80_03-16-59-R.zip",
