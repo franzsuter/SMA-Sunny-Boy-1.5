@@ -1,5 +1,9 @@
 [
     {
+        "datum": "28.06.2026 10:28",
+        "funde": []
+    },
+    {
         "datum": "27.06.2026 10:09",
         "funde": []
     },
@@ -165,25 +169,5 @@
     {
         "datum": "30.05.2026 10:01",
         "funde": []
-    },
-    {
-        "datum": "29.05.2026 11:30",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/COM-RES-GB-de-88.pdf",
-                "bezeichnung": "COM-RES-GB-de-88.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/NSM-GG10-TI-de-22.pdf",
-                "bezeichnung": "NSM-GG10-TI-de-22.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/NSM-GG10-TI-en-22.pdf",
-                "bezeichnung": "NSM-GG10-TI-en-22.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
