@@ -1,5 +1,9 @@
 [
     {
+        "datum": "04.07.2026 10:10",
+        "funde": []
+    },
+    {
         "datum": "03.07.2026 10:36",
         "funde": []
     },
@@ -165,20 +169,5 @@
     {
         "datum": "05.06.2026 11:29",
         "funde": []
-    },
-    {
-        "datum": "04.06.2026 11:15",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/Iscpv-TI-de-24.pdf",
-                "bezeichnung": "Iscpv-TI-de-24.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/Iscpv-TI-en-24.pdf",
-                "bezeichnung": "Iscpv-TI-en-24.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
