@@ -1,5 +1,15 @@
 [
     {
+        "datum": "18.07.2026 09:26",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/Betriebsordnung-TI-de-12.pdf",
+                "bezeichnung": "Betriebsordnung-TI-de-12.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "17.07.2026 09:57",
         "funde": []
     },
@@ -157,21 +167,6 @@
             {
                 "url": "https://files.sma.de/downloads/HK_Cyber_ EN18031-1-EN303645 _en_13.pdf",
                 "bezeichnung": "HK_Cyber_ EN18031-1-EN303645 _en_13.pdf",
-                "typ": "NEU"
-            }
-        ]
-    },
-    {
-        "datum": "18.06.2026 11:51",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/Leaflet_CyberSecurity_DE_260612_01.pdf",
-                "bezeichnung": "Leaflet_CyberSecurity_DE_260612_01.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/Leaflet_CyberSecurity_EN_260612_01.pdf",
-                "bezeichnung": "Leaflet_CyberSecurity_EN_260612_01.pdf",
                 "typ": "NEU"
             }
         ]
