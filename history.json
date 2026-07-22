@@ -1,5 +1,9 @@
 [
     {
+        "datum": "22.07.2026 10:25",
+        "funde": []
+    },
+    {
         "datum": "21.07.2026 10:25",
         "funde": []
     },
@@ -151,16 +155,6 @@
             {
                 "url": "https://files.sma.de/downloads/HK_Cyber_ EN18031-1-EN303645 _en_13.pdf",
                 "bezeichnung": "HK_Cyber_ EN18031-1-EN303645 _en_13.pdf",
-                "typ": "NEU"
-            }
-        ]
-    },
-    {
-        "datum": "22.06.2026 13:35",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/HK_STPxx-80_PQ-Chraracteristic_en_10.pdf",
-                "bezeichnung": "HK_STPxx-80_PQ-Chraracteristic_en_10.pdf",
                 "typ": "NEU"
             }
         ]
