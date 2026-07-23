@@ -1,5 +1,9 @@
 [
     {
+        "datum": "23.07.2026 10:23",
+        "funde": []
+    },
+    {
         "datum": "22.07.2026 10:25",
         "funde": []
     },
@@ -148,15 +152,5 @@
     {
         "datum": "24.06.2026 10:50",
         "funde": []
-    },
-    {
-        "datum": "23.06.2026 11:17",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/HK_Cyber_ EN18031-1-EN303645 _en_13.pdf",
-                "bezeichnung": "HK_Cyber_ EN18031-1-EN303645 _en_13.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
