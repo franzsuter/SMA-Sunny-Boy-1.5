@@ -1,5 +1,9 @@
 [
     {
+        "datum": "26.07.2026 09:59",
+        "funde": []
+    },
+    {
         "datum": "25.07.2026 09:47",
         "funde": []
     },
@@ -137,20 +141,5 @@
     {
         "datum": "27.06.2026 10:09",
         "funde": []
-    },
-    {
-        "datum": "26.06.2026 10:52",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-12.pdf",
-                "bezeichnung": "NA-EEA-NE7_TYP_A_TYP_B_Paraeinst-TI-de-12.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/STPxx-80_FW03.16.65.R.zip",
-                "bezeichnung": "STPxx-80_FW03.16.65.R.zip",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
