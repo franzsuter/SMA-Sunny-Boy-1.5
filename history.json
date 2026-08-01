@@ -1,5 +1,9 @@
 [
     {
+        "datum": "01.08.2026 09:59",
+        "funde": []
+    },
+    {
         "datum": "31.07.2026 10:38",
         "funde": [
             {
@@ -137,20 +141,5 @@
     {
         "datum": "03.07.2026 10:36",
         "funde": []
-    },
-    {
-        "datum": "02.07.2026 10:41",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/Volllaststd_HBS-HK-de-22.pdf",
-                "bezeichnung": "Volllaststd_HBS-HK-de-22.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/Volllaststd_HBS-HK-en-22.pdf",
-                "bezeichnung": "Volllaststd_HBS-HK-en-22.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
