@@ -1,5 +1,9 @@
 [
     {
+        "datum": "10.08.2026 09:21",
+        "funde": []
+    },
+    {
         "datum": "09.08.2026 08:42",
         "funde": []
     },
@@ -153,15 +157,5 @@
     {
         "datum": "12.07.2026 09:51",
         "funde": []
-    },
-    {
-        "datum": "11.07.2026 09:38",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/EnWG14a-TI-de-12.pdf",
-                "bezeichnung": "EnWG14a-TI-de-12.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
