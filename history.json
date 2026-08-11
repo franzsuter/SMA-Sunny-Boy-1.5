@@ -1,5 +1,20 @@
 [
     {
+        "datum": "11.08.2026 08:56",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/Impedanz-175Hz-TI-en-40.pdf",
+                "bezeichnung": "Impedanz-175Hz-TI-en-40.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Iscpv-TI-en-25.pdf",
+                "bezeichnung": "Iscpv-TI-en-25.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "10.08.2026 09:21",
         "funde": []
     },
@@ -152,10 +167,6 @@
     },
     {
         "datum": "13.07.2026 11:11",
-        "funde": []
-    },
-    {
-        "datum": "12.07.2026 09:51",
         "funde": []
     }
 ]
