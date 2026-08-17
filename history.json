@@ -1,5 +1,9 @@
 [
     {
+        "datum": "17.08.2026 08:42",
+        "funde": []
+    },
+    {
         "datum": "16.08.2026 08:28",
         "funde": []
     },
@@ -164,15 +168,5 @@
     {
         "datum": "19.07.2026 09:52",
         "funde": []
-    },
-    {
-        "datum": "18.07.2026 09:26",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/Betriebsordnung-TI-de-12.pdf",
-                "bezeichnung": "Betriebsordnung-TI-de-12.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
