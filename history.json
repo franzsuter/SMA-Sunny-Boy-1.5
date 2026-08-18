@@ -1,5 +1,20 @@
 [
     {
+        "datum": "18.08.2026 08:36",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/STP_xx-80_Sunspec_Modbus_Model_PICS_Overview_V1.zip",
+                "bezeichnung": "STP_xx-80_Sunspec_Modbus_Model_PICS_Overview_V1.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxx-80_FW03-16-72-R.zip",
+                "bezeichnung": "STPxx-80_FW03-16-72-R.zip",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "17.08.2026 08:42",
         "funde": []
     },
@@ -163,10 +178,6 @@
     },
     {
         "datum": "20.07.2026 10:52",
-        "funde": []
-    },
-    {
-        "datum": "19.07.2026 09:52",
         "funde": []
     }
 ]

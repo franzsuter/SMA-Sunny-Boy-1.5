@@ -711,13 +711,17 @@
         "Titel": "HK_CE_STPxx-80_en_11.pdf",
         "Link": "https://files.sma.de/downloads/HK_CE_STPxx-80_en_11.pdf"
     },
-    "https://files.sma.de/downloads/STPxx-80_FW03-16-70-R.zip": {
-        "Titel": "STPxx-80_FW03-16-70-R.zip",
-        "Link": "https://files.sma.de/downloads/STPxx-80_FW03-16-70-R.zip"
+    "https://files.sma.de/downloads/STP_xx-80_Sunspec_Modbus_Model_PICS_Overview_V1.zip": {
+        "Titel": "STP_xx-80_Sunspec_Modbus_Model_PICS_Overview_V1.zip",
+        "Link": "https://files.sma.de/downloads/STP_xx-80_Sunspec_Modbus_Model_PICS_Overview_V1.zip"
     },
     "https://files.sma.de/downloads/PARAMETER-STPxx-80_03-16-59-R.zip": {
         "Titel": "PARAMETER-STPxx-80_03-16-59-R.zip",
         "Link": "https://files.sma.de/downloads/PARAMETER-STPxx-80_03-16-59-R.zip"
+    },
+    "https://files.sma.de/downloads/STPxx-80_FW03-16-72-R.zip": {
+        "Titel": "STPxx-80_FW03-16-72-R.zip",
+        "Link": "https://files.sma.de/downloads/STPxx-80_FW03-16-72-R.zip"
     },
     "https://files.sma.de/downloads/ennexOS-BA-de-11.pdf": {
         "Titel": "ennexOS-BA-de-11.pdf",
