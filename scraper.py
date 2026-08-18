@@ -18,7 +18,8 @@ def save_json(filepath, data):
 
 URLS = [
     "https://www.sma.de/produkte/solar-wechselrichter/sunny-boy-15-20-25",
-    "https://www.sma.de/produkte/solar-wechselrichter/sunny-tripower-x-60"
+    "https://www.sma.de/produkte/solar-wechselrichter/sunny-tripower-x-60",
+    "https://www.sma.de/produkte/solar-wechselrichter/sunny-tripower-125"
 ]
 DATEN_DATEI = "sma_daten.json"
 HISTORY_DATEI = "history.json"
