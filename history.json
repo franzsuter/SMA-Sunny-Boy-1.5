@@ -1,5 +1,310 @@
 [
     {
+        "datum": "18.08.2026 10:59",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/STP125-70-DS-de-13.pdf",
+                "bezeichnung": "STP125-70-DS-de-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STP125-70-DS-en-13.pdf",
+                "bezeichnung": "STP125-70-DS-en-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK-NA-EEA-NE7-de-16.pdf",
+                "bezeichnung": "HK-NA-EEA-NE7-de-16.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK-MPPT-Time-de-10.pdf",
+                "bezeichnung": "HK-MPPT-Time-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK-STP_SHP-NELEV-EAAV-de-11.pdf",
+                "bezeichnung": "HK-STP_SHP-NELEV-EAAV-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_AS4777-A2_STP125-70_en_10.pdf",
+                "bezeichnung": "HK_AS4777-A2_STP125-70_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_STP125-70_EIFS_2_2018_en-10.pdf",
+                "bezeichnung": "HK_STP125-70_EIFS_2_2018_en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_CyberSecurity-AU-en-10.pdf",
+                "bezeichnung": "HK_CyberSecurity-AU-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_ARERA-385_LS_HBS_en-11.pdf",
+                "bezeichnung": "HK_ARERA-385_LS_HBS_en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK-MPPT-Time-en-10.pdf",
+                "bezeichnung": "HK-MPPT-Time-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/CountryofOrigin-STP_HK-xx-11.pdf",
+                "bezeichnung": "CountryofOrigin-STP_HK-xx-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_EDMM_G100_en_10.pdf",
+                "bezeichnung": "HK_EDMM_G100_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_CE_STP125-70_de_12.pdf",
+                "bezeichnung": "HK_CE_STP125-70_de_12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_CE_STP125-70_en_12.pdf",
+                "bezeichnung": "HK_CE_STP125-70_en_12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STP_125-70_Sunspec_Modbus_Model_PICS_Overview_V1.zip",
+                "bezeichnung": "STP_125-70_Sunspec_Modbus_Model_PICS_Overview_V1.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/PARAMETER-HTML_STP125-70_GG10_V10.zip",
+                "bezeichnung": "PARAMETER-HTML_STP125-70_GG10_V10.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/RCX_Support_commb-de-15.pdf",
+                "bezeichnung": "RCX_Support_commb-de-15.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/RCX_Support_commb-en-15.pdf",
+                "bezeichnung": "RCX_Support_commb-en-15.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/FW4_01_16_R_STP125-70.zip",
+                "bezeichnung": "FW4_01_16_R_STP125-70.zip",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxxx-70-BE-de-14.pdf",
+                "bezeichnung": "STPxxx-70-BE-de-14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Exchange-STP110-60_STP125-70-TI-de-10.pdf",
+                "bezeichnung": "Exchange-STP110-60_STP125-70-TI-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Ethernet-Note-STP125-70-de-10.pdf",
+                "bezeichnung": "Ethernet-Note-STP125-70-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxxx-70-BE-en-14.pdf",
+                "bezeichnung": "STPxxx-70-BE-en-14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxxx-70-ISP-xx-12.pdf",
+                "bezeichnung": "STPxxx-70-ISP-xx-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxxx-70-ISS-xx-11.pdf",
+                "bezeichnung": "STPxxx-70-ISS-xx-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Exchange-STP110-60_STP125-70-TI-en-10.pdf",
+                "bezeichnung": "Exchange-STP110-60_STP125-70-TI-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_AR-N 4105_de_11.pdf",
+                "bezeichnung": "ZE_STP125-70_AR-N 4105_de_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_AR-N 4105_NA_de_10.pdf",
+                "bezeichnung": "ZE_STP125-70_AR-N 4105_NA_de_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_IEC60068-en-10.pdf",
+                "bezeichnung": "ZE_STP125-70_IEC60068-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_EMC_en_10.pdf",
+                "bezeichnung": "ZE_STP125-70_EMC_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_IEC63027_en_10.pdf",
+                "bezeichnung": "ZE_STP125-70_IEC63027_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_DEWA_en_10.pdf",
+                "bezeichnung": "ZE_STP125-70_DEWA_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP 125-70_IEC 60068-2-68_en_10.pdf",
+                "bezeichnung": "ZE_STP 125-70_IEC 60068-2-68_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_NRS097_en_10.pdf",
+                "bezeichnung": "ZE_STP125-70_NRS097_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_C10-11_en_10.pdf",
+                "bezeichnung": "ZE_STP125-70_C10-11_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_DK1_DK2-en-10.pdf",
+                "bezeichnung": "ZE_STP125-70_DK1_DK2-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_EN50549-2-en-10.pdf",
+                "bezeichnung": "ZE_STP125-70_EN50549-2-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_G99NI_en_10.pdf",
+                "bezeichnung": "ZE_STP125-70_G99NI_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_IRRDCMV_en_10.pdf",
+                "bezeichnung": "ZE_STP125-70_IRRDCMV_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_ STP125-70_AS-NZS4777-2-2020_en-11.pdf",
+                "bezeichnung": "ZE_ STP125-70_AS-NZS4777-2-2020_en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_G99-en-10.pdf",
+                "bezeichnung": "ZE_STP125-70_G99-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_EN50549-1-en-10.pdf",
+                "bezeichnung": "ZE_STP125-70_EN50549-1-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_IEC61683-en-10.pdf",
+                "bezeichnung": "ZE_STP125-70_IEC61683-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_IEC61727_62116-en-10.pdf",
+                "bezeichnung": "ZE_STP125-70_IEC61727_62116-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_IEC62109-en-10.pdf",
+                "bezeichnung": "ZE_STP125-70_IEC62109-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_IEC-TS-62910_en_10.pdf",
+                "bezeichnung": "ZE_STP125-70_IEC-TS-62910_en_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_FIC_STP125-70_STP110-60_STPxx-3SE-40_en_14.pdf",
+                "bezeichnung": "ZE_FIC_STP125-70_STP110-60_STPxx-3SE-40_en_14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/TR_STP125-70_TR3_excerpt-en-11.pdf",
+                "bezeichnung": "TR_STP125-70_TR3_excerpt-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE_STP125-70_AR-N-41x0_en_11.pdf",
+                "bezeichnung": "ZE_STP125-70_AR-N-41x0_en_11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-de-11.pdf",
+                "bezeichnung": "STPxxx-70-4-Leiter-TI-de-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/NELEV-GG10-CORE2-EDMM-20-TI-de-12.pdf",
+                "bezeichnung": "NELEV-GG10-CORE2-EDMM-20-TI-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-de-13.pdf",
+                "bezeichnung": "SB_STP-Diagnosefunktion-TI-de-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/AFCI-general-TI-de-12.pdf",
+                "bezeichnung": "AFCI-general-TI-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-en-11.pdf",
+                "bezeichnung": "STPxxx-70-4-Leiter-TI-en-11.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/AFCI-general-TI-en-12.pdf",
+                "bezeichnung": "AFCI-general-TI-en-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-en-13.pdf",
+                "bezeichnung": "SB_STP-Diagnosefunktion-TI-en-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Update-Support-UK-TI-en-10.pdf",
+                "bezeichnung": "Update-Support-UK-TI-en-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA-Commercial-Solar-Solution_DE_241210_01.pdf",
+                "bezeichnung": "SMA-Commercial-Solar-Solution_DE_241210_01.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA_Commercial_Solar_Solution_DE_WEB.pdf",
+                "bezeichnung": "SMA_Commercial_Solar_Solution_DE_WEB.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMA-Commercial-Solar-Solution_EN.pdf",
+                "bezeichnung": "SMA-Commercial-Solar-Solution_EN.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "18.08.2026 08:36",
         "funde": [
             {
@@ -174,10 +479,6 @@
     },
     {
         "datum": "21.07.2026 10:25",
-        "funde": []
-    },
-    {
-        "datum": "20.07.2026 10:52",
         "funde": []
     }
 ]
