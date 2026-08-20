@@ -79,13 +79,13 @@
         "Titel": "HK_Komponenten-Speicherprogramm_RLP-de-11.pdf",
         "Link": "https://files.sma.de/downloads/HK_Komponenten-Speicherprogramm_RLP-de-11.pdf"
     },
-    "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf": {
-        "Titel": "SolarInvest-TH_SI-HK-de-13.pdf",
-        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf"
-    },
     "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf": {
         "Titel": "SolarInvest-TH_SBS-HK-de-13.pdf",
         "Link": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf"
+    },
+    "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf": {
+        "Titel": "SolarInvest-TH_SI-HK-de-13.pdf",
+        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf"
     },
     "https://files.sma.de/downloads/RCD-Typ-A-HK-de-18.pdf": {
         "Titel": "RCD-Typ-A-HK-de-18.pdf",
@@ -567,9 +567,9 @@
         "Titel": "RCD-TI-en-45.pdf",
         "Link": "https://files.sma.de/downloads/RCD-TI-en-45.pdf"
     },
-    "https://files.sma.de/downloads/WirkungDerat-TI-en-54.pdf": {
-        "Titel": "WirkungDerat-TI-en-54.pdf",
-        "Link": "https://files.sma.de/downloads/WirkungDerat-TI-en-54.pdf"
+    "https://files.sma.de/downloads/WirkungDerat-TI-en-55.pdf": {
+        "Titel": "WirkungDerat-TI-en-55.pdf",
+        "Link": "https://files.sma.de/downloads/WirkungDerat-TI-en-55.pdf"
     },
     "https://files.sma.de/downloads/Impedanz-175Hz-TI-en-40.pdf": {
         "Titel": "Impedanz-175Hz-TI-en-40.pdf",
@@ -834,6 +834,14 @@
     "https://files.sma.de/downloads/Update-Support-TI-en-16.pdf": {
         "Titel": "Update-Support-TI-en-16.pdf",
         "Link": "https://files.sma.de/downloads/Update-Support-TI-en-16.pdf"
+    },
+    "https://files.sma.de/downloads/Flyer_EnergyMaximizer_DE_260806_01.pdf": {
+        "Titel": "Flyer_EnergyMaximizer_DE_260806_01.pdf",
+        "Link": "https://files.sma.de/downloads/Flyer_EnergyMaximizer_DE_260806_01.pdf"
+    },
+    "https://files.sma.de/downloads/Flyer_EnergyMaximizer_EN_260806_01.pdf": {
+        "Titel": "Flyer_EnergyMaximizer_EN_260806_01.pdf",
+        "Link": "https://files.sma.de/downloads/Flyer_EnergyMaximizer_EN_260806_01.pdf"
     },
     "https://files.sma.de/downloads/STP125-70-DS-de-13.pdf": {
         "Titel": "STP125-70-DS-de-13.pdf",
