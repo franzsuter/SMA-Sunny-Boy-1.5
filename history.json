@@ -1,5 +1,20 @@
 [
     {
+        "datum": "21.08.2026 08:40",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/HK_Measurement-de-10.pdf",
+                "bezeichnung": "HK_Measurement-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Measurement-en-10.pdf",
+                "bezeichnung": "HK_Measurement-en-10.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "20.08.2026 08:38",
         "funde": [
             {
@@ -491,10 +506,6 @@
     },
     {
         "datum": "25.07.2026 09:47",
-        "funde": []
-    },
-    {
-        "datum": "24.07.2026 10:17",
         "funde": []
     }
 ]
