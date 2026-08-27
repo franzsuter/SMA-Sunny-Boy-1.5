@@ -1,5 +1,15 @@
 [
     {
+        "datum": "27.08.2026 18:54",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/EU-REACH-SVHC-Sunny-Tripower-STP-125-70.pdf",
+                "bezeichnung": "EU-REACH-SVHC-Sunny-Tripower-STP-125-70.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "26.08.2026 08:42",
         "funde": []
     },
@@ -503,9 +513,5 @@
                 "typ": "NEU"
             }
         ]
-    },
-    {
-        "datum": "30.07.2026 10:24",
-        "funde": []
     }
 ]
