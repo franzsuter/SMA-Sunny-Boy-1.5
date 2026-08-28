@@ -1,5 +1,20 @@
 [
     {
+        "datum": "28.08.2026 19:56",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/NSM-GG10-TI-de-23.pdf",
+                "bezeichnung": "NSM-GG10-TI-de-23.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/NSM-GG10-TI-en-23.pdf",
+                "bezeichnung": "NSM-GG10-TI-en-23.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "27.08.2026 18:54",
         "funde": [
             {
@@ -498,20 +513,5 @@
     {
         "datum": "01.08.2026 09:59",
         "funde": []
-    },
-    {
-        "datum": "31.07.2026 10:38",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/STPxx-80_FW03-16-70-R.zip",
-                "bezeichnung": "STPxx-80_FW03-16-70-R.zip",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/Update-Support-TI-de-16.pdf",
-                "bezeichnung": "Update-Support-TI-de-16.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
