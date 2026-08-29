@@ -1,5 +1,30 @@
 [
     {
+        "datum": "29.08.2026 13:39",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/BGV-de_mow-73.pdf",
+                "bezeichnung": "BGV-de_mow-73.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-de-73.pdf",
+                "bezeichnung": "BGV-de-73.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-en-71.pdf",
+                "bezeichnung": "BGV-en-71.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/BGV-en_uk-73.pdf",
+                "bezeichnung": "BGV-en_uk-73.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "28.08.2026 19:56",
         "funde": [
             {
@@ -508,10 +533,6 @@
     },
     {
         "datum": "02.08.2026 09:57",
-        "funde": []
-    },
-    {
-        "datum": "01.08.2026 09:59",
         "funde": []
     }
 ]
