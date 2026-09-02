@@ -1,5 +1,9 @@
 [
     {
+        "datum": "02.09.2026 12:35",
+        "funde": []
+    },
+    {
         "datum": "01.09.2026 13:10",
         "funde": []
     },
@@ -524,15 +528,5 @@
     {
         "datum": "06.08.2026 10:38",
         "funde": []
-    },
-    {
-        "datum": "05.08.2026 10:34",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/Update-Support-TI-en-16.pdf",
-                "bezeichnung": "Update-Support-TI-en-16.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
