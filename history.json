@@ -1,5 +1,9 @@
 [
     {
+        "datum": "05.09.2026 11:41",
+        "funde": []
+    },
+    {
         "datum": "04.09.2026 12:32",
         "funde": [
             {
@@ -519,25 +523,5 @@
     {
         "datum": "09.08.2026 08:42",
         "funde": []
-    },
-    {
-        "datum": "08.08.2026 08:41",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/Impedanz-175Hz-TI-de-40.pdf",
-                "bezeichnung": "Impedanz-175Hz-TI-de-40.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/WirkungDerat-TI-de-55.pdf",
-                "bezeichnung": "WirkungDerat-TI-de-55.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/Iscpv-TI-de-25.pdf",
-                "bezeichnung": "Iscpv-TI-de-25.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
