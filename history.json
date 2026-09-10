@@ -1,5 +1,9 @@
 [
     {
+        "datum": "10.09.2026 12:44",
+        "funde": []
+    },
+    {
         "datum": "09.09.2026 12:46",
         "funde": []
     },
@@ -502,15 +506,5 @@
     {
         "datum": "14.08.2026 09:06",
         "funde": []
-    },
-    {
-        "datum": "13.08.2026 09:12",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/ZE_STP_ADQCC_en_10.pdf",
-                "bezeichnung": "ZE_STP_ADQCC_en_10.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
