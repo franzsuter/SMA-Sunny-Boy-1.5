@@ -79,13 +79,13 @@
         "Titel": "HK_Komponenten-Speicherprogramm_RLP-de-11.pdf",
         "Link": "https://files.sma.de/downloads/HK_Komponenten-Speicherprogramm_RLP-de-11.pdf"
     },
-    "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf": {
-        "Titel": "SolarInvest-TH_SI-HK-de-13.pdf",
-        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf"
-    },
     "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf": {
         "Titel": "SolarInvest-TH_SBS-HK-de-13.pdf",
         "Link": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf"
+    },
+    "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf": {
+        "Titel": "SolarInvest-TH_SI-HK-de-13.pdf",
+        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf"
     },
     "https://files.sma.de/downloads/RCD-Typ-A-HK-de-18.pdf": {
         "Titel": "RCD-Typ-A-HK-de-18.pdf",
@@ -1059,9 +1059,9 @@
         "Titel": "AFCI-general-TI-de-12.pdf",
         "Link": "https://files.sma.de/downloads/AFCI-general-TI-de-12.pdf"
     },
-    "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-en-11.pdf": {
-        "Titel": "STPxxx-70-4-Leiter-TI-en-11.pdf",
-        "Link": "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-en-11.pdf"
+    "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-en-12.pdf": {
+        "Titel": "STPxxx-70-4-Leiter-TI-en-12.pdf",
+        "Link": "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-en-12.pdf"
     },
     "https://files.sma.de/downloads/AFCI-general-TI-en-12.pdf": {
         "Titel": "AFCI-general-TI-en-12.pdf",
