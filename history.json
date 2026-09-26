@@ -1,5 +1,15 @@
 [
     {
+        "datum": "26.09.2026 12:42",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/RoofMountAdapter-STPxx-80-IS-xx-10.pdf",
+                "bezeichnung": "RoofMountAdapter-STPxx-80-IS-xx-10.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "25.09.2026 13:17",
         "funde": []
     },
@@ -183,16 +193,6 @@
             {
                 "url": "https://files.sma.de/downloads/NSM-GG10-TI-en-23.pdf",
                 "bezeichnung": "NSM-GG10-TI-en-23.pdf",
-                "typ": "NEU"
-            }
-        ]
-    },
-    {
-        "datum": "27.08.2026 18:54",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/EU-REACH-SVHC-Sunny-Tripower-STP-125-70.pdf",
-                "bezeichnung": "EU-REACH-SVHC-Sunny-Tripower-STP-125-70.pdf",
                 "typ": "NEU"
             }
         ]
