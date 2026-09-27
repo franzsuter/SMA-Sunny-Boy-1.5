@@ -1,5 +1,9 @@
 [
     {
+        "datum": "27.09.2026 13:34",
+        "funde": []
+    },
+    {
         "datum": "26.09.2026 12:42",
         "funde": [
             {
@@ -178,21 +182,6 @@
             {
                 "url": "https://files.sma.de/downloads/BGV-en_uk-73.pdf",
                 "bezeichnung": "BGV-en_uk-73.pdf",
-                "typ": "NEU"
-            }
-        ]
-    },
-    {
-        "datum": "28.08.2026 19:56",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/NSM-GG10-TI-de-23.pdf",
-                "bezeichnung": "NSM-GG10-TI-de-23.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/NSM-GG10-TI-en-23.pdf",
-                "bezeichnung": "NSM-GG10-TI-en-23.pdf",
                 "typ": "NEU"
             }
         ]
