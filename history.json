@@ -1,5 +1,15 @@
 [
     {
+        "datum": "29.09.2026 14:40",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/ZE_FIC_STP125-70_STP110-60_STPxx-3SE-40_en_15.pdf",
+                "bezeichnung": "ZE_FIC_STP125-70_STP110-60_STPxx-3SE-40_en_15.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "28.09.2026 16:30",
         "funde": []
     },
@@ -159,10 +169,6 @@
     },
     {
         "datum": "31.08.2026 15:53",
-        "funde": []
-    },
-    {
-        "datum": "30.08.2026 13:36",
         "funde": []
     }
 ]
