@@ -79,13 +79,13 @@
         "Titel": "HK_Komponenten-Speicherprogramm_RLP-de-11.pdf",
         "Link": "https://files.sma.de/downloads/HK_Komponenten-Speicherprogramm_RLP-de-11.pdf"
     },
-    "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf": {
-        "Titel": "SolarInvest-TH_SBS-HK-de-13.pdf",
-        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf"
-    },
     "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf": {
         "Titel": "SolarInvest-TH_SI-HK-de-13.pdf",
         "Link": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf"
+    },
+    "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf": {
+        "Titel": "SolarInvest-TH_SBS-HK-de-13.pdf",
+        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf"
     },
     "https://files.sma.de/downloads/RCD-Typ-A-HK-de-18.pdf": {
         "Titel": "RCD-Typ-A-HK-de-18.pdf",
@@ -831,6 +831,10 @@
         "Titel": "EnWG14a-TI-de-12.pdf",
         "Link": "https://files.sma.de/downloads/EnWG14a-TI-de-12.pdf"
     },
+    "https://files.sma.de/downloads/Parasetting-4105-TI-de-12.pdf": {
+        "Titel": "Parasetting-4105-TI-de-12.pdf",
+        "Link": "https://files.sma.de/downloads/Parasetting-4105-TI-de-12.pdf"
+    },
     "https://files.sma.de/downloads/Iscpv-TI-de-25.pdf": {
         "Titel": "Iscpv-TI-de-25.pdf",
         "Link": "https://files.sma.de/downloads/Iscpv-TI-de-25.pdf"
@@ -842,6 +846,10 @@
     "https://files.sma.de/downloads/Betriebsordnung-TI-de-12.pdf": {
         "Titel": "Betriebsordnung-TI-de-12.pdf",
         "Link": "https://files.sma.de/downloads/Betriebsordnung-TI-de-12.pdf"
+    },
+    "https://files.sma.de/downloads/Parasetting-4105-TI-en-12.pdf": {
+        "Titel": "Parasetting-4105-TI-en-12.pdf",
+        "Link": "https://files.sma.de/downloads/Parasetting-4105-TI-en-12.pdf"
     },
     "https://files.sma.de/downloads/Iscpv-TI-en-25.pdf": {
         "Titel": "Iscpv-TI-en-25.pdf",

@@ -1,5 +1,20 @@
 [
     {
+        "datum": "14.10.2026 13:21",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/Parasetting-4105-TI-de-12.pdf",
+                "bezeichnung": "Parasetting-4105-TI-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/Parasetting-4105-TI-en-12.pdf",
+                "bezeichnung": "Parasetting-4105-TI-en-12.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "13.10.2026 15:37",
         "funde": []
     },
@@ -775,10 +790,6 @@
     },
     {
         "datum": "14.09.2026 14:46",
-        "funde": []
-    },
-    {
-        "datum": "13.09.2026 13:09",
         "funde": []
     }
 ]
