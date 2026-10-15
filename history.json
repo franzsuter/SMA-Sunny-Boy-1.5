@@ -1,5 +1,20 @@
 [
     {
+        "datum": "15.10.2026 13:07",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/ennexOS-BA-de-12.pdf",
+                "bezeichnung": "ennexOS-BA-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ennexOS-BA-en-12.pdf",
+                "bezeichnung": "ennexOS-BA-en-12.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "14.10.2026 13:21",
         "funde": [
             {
@@ -786,10 +801,6 @@
     },
     {
         "datum": "15.09.2026 13:11",
-        "funde": []
-    },
-    {
-        "datum": "14.09.2026 14:46",
         "funde": []
     }
 ]
