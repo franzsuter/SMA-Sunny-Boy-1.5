@@ -1,5 +1,20 @@
 [
     {
+        "datum": "17.10.2026 12:00",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/SMAModbus-ennexOS-TI-de-14.pdf",
+                "bezeichnung": "SMAModbus-ennexOS-TI-de-14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SMAModbus-ennexOS-TI-en-14.pdf",
+                "bezeichnung": "SMAModbus-ennexOS-TI-en-14.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "16.10.2026 13:02",
         "funde": []
     },
@@ -784,21 +799,6 @@
             {
                 "url": "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-de-12.pdf",
                 "bezeichnung": "STPxxx-70-4-Leiter-TI-de-12.pdf",
-                "typ": "NEU"
-            }
-        ]
-    },
-    {
-        "datum": "16.09.2026 13:11",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/Grounding-PV-Inverter-TI-de-11.pdf",
-                "bezeichnung": "Grounding-PV-Inverter-TI-de-11.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/Grounding-PV-Inverter-TI-en-11.pdf",
-                "bezeichnung": "Grounding-PV-Inverter-TI-en-11.pdf",
                 "typ": "NEU"
             }
         ]
