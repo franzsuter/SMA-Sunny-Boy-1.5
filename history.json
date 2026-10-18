@@ -1,5 +1,9 @@
 [
     {
+        "datum": "18.10.2026 12:28",
+        "funde": []
+    },
+    {
         "datum": "17.10.2026 12:00",
         "funde": [
             {
@@ -792,15 +796,5 @@
     {
         "datum": "18.09.2026 12:45",
         "funde": []
-    },
-    {
-        "datum": "17.09.2026 13:05",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-de-12.pdf",
-                "bezeichnung": "STPxxx-70-4-Leiter-TI-de-12.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
