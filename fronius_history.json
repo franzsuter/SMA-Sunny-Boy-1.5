@@ -1,0 +1,317 @@
+[
+    {
+        "datum": "20.10.2026 08:23",
+        "funde": [
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Certificates/SE_Certificates_Conformity_EN_50549-1_RfG_Poland_Fronius_Symo_GEN24_Plus_30_-_50_SC_PL-Polish.pdf",
+                "bezeichnung": "Conformity EN 50549-1 RfG Poland Fronius Symo GEN24 (Plus) 3.0 - 5.0 SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Datasheets/SE_Datasheet_Datasheet_Fronius_Primo_GEN24-SC_SV_SV-Swedish.pdf",
+                "bezeichnung": "Datablad_Fronius_Primo_GEN24-SC_SV",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Datasheets/SE_Datasheet_Datasheet_Fronius_Symo_GEN24-SC_HR_HR-Croatian.pdf",
+                "bezeichnung": "Podatkovna_tablica_Fronius_Symo_GEN24-SC_HR",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Datasheets/SE_Datasheet_Datasheet_Fronius_Symo_GEN24_SC__GEN24_Plus_SC_30_to_120_kW_PL_PL-Polish.pdf",
+                "bezeichnung": "Fronius Symo GEN24 SC and GEN24 Plus SC 3.0 to 12.0 kW",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Datasheets/SE_Datasheet_Fronius_Symo_GEN24_Plus_SC_3-12_kW_FR-French.pdf",
+                "bezeichnung": "SE Datasheet Fronius Symo GEN24 Plus SC 3-12 kW FR",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Datasheets/SE_Datasheet_Fronius_Symo_GEN24_SC,_GEN24_Plus_SC_30-120_kW_EN-English.pdf",
+                "bezeichnung": "SE Datenblatt Fronius Symo GEN24 SC & GEN24 SC Plus 3.0 bis 12.0 kW EN",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Datasheets/SE_Datasheet_Fronius_Symo_GEN24_SC__GEN24_Plus_SC_30_to_120_kW_DE-German.pdf",
+                "bezeichnung": "SE Datenblatt Fronius Symo GEN24 SC & GEN24 Plus SC 3.0 bis 12.0 kW DE",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Datasheets/SE_Datasheet_Fronius_Symo_GEN24_SC__GEN24_Plus_SC_30_to_120_kW_HU-Hungarian.pdf",
+                "bezeichnung": "Fronius Symo GEN24 SC & GEN24 Plus SC 3.0 to 12.0 kW",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Datasheets/SE_Datasheet_Fronius_Symo_GEN24_SC__GEN24_Plus_SC_30_to_120_kW_IT-Italian.pdf",
+                "bezeichnung": "Fronius Symo GEN24 SC & GEN24 Plus SC 3.0 to 12.0 kW",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Declaration%20of%20Conformity/SE_CE_Declaration_of_Conformity_Packaging_GEN24_S_MULTI.pdf",
+                "bezeichnung": "EU-DECLARATION OF CONFORMITY Packaging GEN24 S",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Declaration%20of%20Conformity/SE_EC_Declaration_of_Conformity_Symo_GEN24_Plus_SC_5K_MULTI.pdf",
+                "bezeichnung": "EU-DECLARATION OF CONFORMITY Symo GEN24 3.0/4.0/5.0 Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,BG.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,CS.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,DA.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,DE.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,EA.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,EL.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,ES.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,ET.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,FI.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,FR.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,HR.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,HU.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,IT.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,LT.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,LV.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,NL.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,PL.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,PT.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,RO.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,SK.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,SL.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,SV.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,TR.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0388,UK.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus/Symo GEN24 3-5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,BG.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,CS.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,DA.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,DE.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,EA.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,EL.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,ES.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,ET.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,FI.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,FR.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,HR.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,HU.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,IT.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,LT.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,LV.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,NL.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,PB.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,PL.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,PT.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,RO.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,SK.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,SL.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,SV.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,TR.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Operating%20Instructions/42,0426,0548,UK.pdf",
+                "bezeichnung": "Fronius Symo GEN24 3 - 5 kW Plus SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Warranty%20Label/SE_GARAN_Label_GEN24_SC.zip",
+                "bezeichnung": "GARAN Label GEN24 SC",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Whitepaper/SE_WP_LCA_GEN24_Plus_EN.pdf",
+                "bezeichnung": "Whitepaper LCA Fronius GEN24 EN",
+                "typ": "NEU"
+            }
+        ]
+    }
+]
