@@ -2,7 +2,8 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>SMA Sunny Boy Monitor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SMA und Fronius Dokumentmonitor</title>
     <style>
         body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 40px; background: #f4f7f6; }
         h1 { color: #2c3e50; }
@@ -21,7 +22,9 @@
 </head>
 <body>
 
-    <h1>SMA Monitor</h1>
+    <h1>SMA und Fronius Dokumentmonitor</h1>
+    <nav aria-label="Hersteller"><a href="#sma-heading">SMA</a> · <a href="#fronius-heading">Fronius</a></nav>
+    <h2 id="sma-heading">SMA</h2>
     <p><strong>Überwachte Seiten:</strong>
         <a href="https://www.sma.de/produkte/solar-wechselrichter/sunny-boy-15-20-25" target="_blank">Sunny Boy 1.5 / 2.0 / 2.5</a>,
         <a href="https://www.sma.de/produkte/solar-wechselrichter/sunny-tripower-x-60" target="_blank">Sunny Tripower X 60</a>,
@@ -48,103 +51,26 @@
         <p class="status" id="zeitstempel"></p>
     </div>
 
-    <script>
-    // 1. HISTORIE LADEN
-    fetch('history.json')
-        .then(res => {
-            if (!res.ok) {
-                throw new Error('Netzwerkantwort war nicht ok: ' + res.statusText);
-            }
-            return res.json();
-        })
-        .then(historyData => {
-            const container = document.getElementById('history-inhalt');
-            container.innerHTML = ''; // Clear container safely
-
-            if (!historyData || historyData.length === 0) {
-                container.textContent = "Noch keine Änderungen aufgezeichnet.";
-                return;
-            }
-
-            historyData.forEach(tag => {
-                const p = document.createElement('p');
-
-                const strong = document.createElement('strong');
-                strong.textContent = tag.datum + ': ';
-                p.appendChild(strong);
-
-                if (tag.funde.length === 0) {
-                    const span = document.createElement('span');
-                    span.style.color = '#7f8c8d';
-                    span.style.fontStyle = 'italic';
-                    span.textContent = '✅ Scan durchgeführt, keine Änderungen.';
-                    p.appendChild(span);
-                } else {
-                    tag.funde.forEach(f => {
-                        p.appendChild(document.createElement('br'));
-
-                        const span = document.createElement('span');
-                        span.className = f.typ === 'NEU' ? 'neu-tag' : 'update-tag';
-                        span.textContent = `[${f.typ}] `;
-                        p.appendChild(span);
-
-                        p.appendChild(document.createTextNode(f.bezeichnung + ' ('));
-
-                        const a = document.createElement('a');
-                        a.href = f.url;
-                        a.target = '_blank';
-                        a.textContent = 'Link';
-                        p.appendChild(a);
-
-                        p.appendChild(document.createTextNode(')'));
-                    });
-                }
-                container.appendChild(p);
-            });
-        }).catch(err => {
-            console.error('Fehler beim Laden der Historie:', err);
-            document.getElementById('history-inhalt').textContent = "Fehler beim Laden der Historie oder noch nicht verfügbar.";
-        });
-
-        // 2. HAUPTDATEN LADEN
-        fetch('sma_daten.json')
-            .then(res => {
-                if (!res.ok) {
-                    throw new Error('Netzwerkantwort war nicht ok: ' + res.statusText);
-                }
-                return res.json();
-            })
-            .then(data => {
-                const tbody = document.getElementById('inhalt');
-                tbody.innerHTML = ''; // clear initial content
-
-                for (const [url, info] of Object.entries(data)) {
-                    const tr = document.createElement('tr');
-
-                    const tdTitle = document.createElement('td');
-                    const strongTitle = document.createElement('strong');
-                    strongTitle.textContent = info.Titel;
-                    tdTitle.appendChild(strongTitle);
-                    tr.appendChild(tdTitle);
-
-                    const tdLink = document.createElement('td');
-                    const aLink = document.createElement('a');
-                    aLink.href = info.Link;
-                    aLink.target = '_blank';
-                    aLink.textContent = info.Link.length > 80 ? info.Link.substring(0, 77) + '...' : info.Link;
-                    tdLink.appendChild(aLink);
-                    tr.appendChild(tdLink);
-
-                    tbody.appendChild(tr);
-                }
-                document.getElementById('loading').style.display = 'none';
-                document.getElementById('tabelle').style.display = 'table';
-                document.getElementById('zeitstempel').textContent = 'Letzter Scan: ' + new Date().toLocaleString();
-            })
-            .catch(err => {
-                console.error('Fehler beim Laden der Daten:', err);
-                document.getElementById('loading').textContent = "Fehler beim Laden der Daten.";
-            });
-    </script>
+    <section aria-labelledby="fronius-heading">
+        <h2 id="fronius-heading">Fronius Symo GEN24 3.0 Plus SC</h2>
+        <p><strong>Überwachte Quelle:</strong>
+            <a href="https://www.fronius.com/de/download-center?searchword=4%2C210%2C190%2C002&amp;activeDepartment=sbsSolarAndEnergy" target="_blank" rel="noopener noreferrer">Fronius Downloadsuche</a>
+            · Alle Sprachen · Alle Dokumenttypen
+        </p>
+        <p id="fronius-status" class="status" role="status">Lade Scanstatus...</p>
+        <div class="card history-card">
+            <h3>🕒 Letzte Änderungen</h3>
+            <div id="fronius-history">Lade Historie...</div>
+        </div>
+        <div class="card">
+            <h3>Aktuelle Dokumente und Downloads</h3>
+            <div id="fronius-loading">Lade Daten...</div>
+            <table id="fronius-table" style="display:none;">
+                <thead><tr><th>Titel</th><th>Dokumenttyp</th><th>Sprache</th><th>Größe</th><th>Link</th></tr></thead>
+                <tbody id="fronius-documents"></tbody>
+            </table>
+        </div>
+    </section>
+    <script src="monitor.js"></script>
 </body>
 </html>
