@@ -1,5 +1,20 @@
 [
     {
+        "datum": "20.10.2026 07:46",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/EMeter-Compatibility-TI-de-10.pdf",
+                "bezeichnung": "EMeter-Compatibility-TI-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/EMeter-Compatibility-TI-en-10.pdf",
+                "bezeichnung": "EMeter-Compatibility-TI-en-10.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "19.10.2026 15:19",
         "funde": []
     },
@@ -786,15 +801,5 @@
     {
         "datum": "20.09.2026 12:54",
         "funde": []
-    },
-    {
-        "datum": "19.09.2026 12:18",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-en-12.pdf",
-                "bezeichnung": "STPxxx-70-4-Leiter-TI-en-12.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]

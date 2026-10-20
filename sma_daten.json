@@ -843,6 +843,10 @@
         "Titel": "Parasetting-4105-TI-de-12.pdf",
         "Link": "https://files.sma.de/downloads/Parasetting-4105-TI-de-12.pdf"
     },
+    "https://files.sma.de/downloads/EMeter-Compatibility-TI-de-10.pdf": {
+        "Titel": "EMeter-Compatibility-TI-de-10.pdf",
+        "Link": "https://files.sma.de/downloads/EMeter-Compatibility-TI-de-10.pdf"
+    },
     "https://files.sma.de/downloads/Iscpv-TI-de-25.pdf": {
         "Titel": "Iscpv-TI-de-25.pdf",
         "Link": "https://files.sma.de/downloads/Iscpv-TI-de-25.pdf"
@@ -866,6 +870,10 @@
     "https://files.sma.de/downloads/Update-Support-TI-en-16.pdf": {
         "Titel": "Update-Support-TI-en-16.pdf",
         "Link": "https://files.sma.de/downloads/Update-Support-TI-en-16.pdf"
+    },
+    "https://files.sma.de/downloads/EMeter-Compatibility-TI-en-10.pdf": {
+        "Titel": "EMeter-Compatibility-TI-en-10.pdf",
+        "Link": "https://files.sma.de/downloads/EMeter-Compatibility-TI-en-10.pdf"
     },
     "https://files.sma.de/downloads/Flyer_EnergyMaximizer_DE_260806_01.pdf": {
         "Titel": "Flyer_EnergyMaximizer_DE_260806_01.pdf",
