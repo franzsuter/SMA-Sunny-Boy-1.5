@@ -1,5 +1,9 @@
 [
     {
+        "datum": "22.10.2026 13:34",
+        "funde": []
+    },
+    {
         "datum": "21.10.2026 13:30",
         "funde": []
     },
@@ -791,15 +795,5 @@
     {
         "datum": "23.09.2026 13:24",
         "funde": []
-    },
-    {
-        "datum": "22.09.2026 13:09",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/ZE_STPxx-80_NRS097-en-10.pdf",
-                "bezeichnung": "ZE_STPxx-80_NRS097-en-10.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
