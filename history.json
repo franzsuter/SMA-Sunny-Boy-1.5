@@ -1,5 +1,9 @@
 [
     {
+        "datum": "26.10.2026 15:03",
+        "funde": []
+    },
+    {
         "datum": "25.10.2026 12:59",
         "funde": []
     },
@@ -785,15 +789,5 @@
     {
         "datum": "27.09.2026 13:34",
         "funde": []
-    },
-    {
-        "datum": "26.09.2026 12:42",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/RoofMountAdapter-STPxx-80-IS-xx-10.pdf",
-                "bezeichnung": "RoofMountAdapter-STPxx-80-IS-xx-10.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
