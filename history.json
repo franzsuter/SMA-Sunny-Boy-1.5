@@ -1,5 +1,15 @@
 [
     {
+        "datum": "28.10.2026 14:53",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_IEC-TS-62910_en_10.pdf",
+                "bezeichnung": "ZE_STPxx-80_IEC-TS-62910_en_10.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "27.10.2026 14:02",
         "funde": []
     },
@@ -785,9 +795,5 @@
                 "typ": "NEU"
             }
         ]
-    },
-    {
-        "datum": "28.09.2026 16:30",
-        "funde": []
     }
 ]
