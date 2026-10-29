@@ -1,5 +1,9 @@
 [
     {
+        "datum": "29.10.2026 14:59",
+        "funde": []
+    },
+    {
         "datum": "28.10.2026 14:53",
         "funde": [
             {
@@ -782,16 +786,6 @@
             {
                 "url": "https://files.sma.de/downloads/EU-REACH-71-SVHC-accessory-kit-SB15-25-40-en-10.pdf",
                 "bezeichnung": "EU-REACH-71-SVHC-accessory-kit-SB15-25-40-en-10.pdf",
-                "typ": "NEU"
-            }
-        ]
-    },
-    {
-        "datum": "29.09.2026 14:40",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/ZE_FIC_STP125-70_STP110-60_STPxx-3SE-40_en_15.pdf",
-                "bezeichnung": "ZE_FIC_STP125-70_STP110-60_STPxx-3SE-40_en_15.pdf",
                 "typ": "NEU"
             }
         ]
