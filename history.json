@@ -1,5 +1,15 @@
 [
     {
+        "datum": "31.10.2026 14:21",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPxx-80_IRRDCMV_en_10.pdf",
+                "bezeichnung": "ZE_STPxx-80_IRRDCMV_en_10.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "30.10.2026 14:53",
         "funde": []
     },
@@ -163,10 +173,6 @@
     },
     {
         "datum": "02.10.2026 14:30",
-        "funde": []
-    },
-    {
-        "datum": "01.10.2026 15:09",
         "funde": []
     }
 ]
