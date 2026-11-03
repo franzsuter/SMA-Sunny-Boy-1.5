@@ -1,5 +1,20 @@
 [
     {
+        "datum": "03.11.2026 15:53",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/AFCI-general-TI-de-13.pdf",
+                "bezeichnung": "AFCI-general-TI-de-13.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/AFCI-general-TI-en-13.pdf",
+                "bezeichnung": "AFCI-general-TI-en-13.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "02.11.2026 17:54",
         "funde": []
     },
@@ -169,10 +184,6 @@
     },
     {
         "datum": "05.10.2026 16:51",
-        "funde": []
-    },
-    {
-        "datum": "04.10.2026 13:44",
         "funde": []
     }
 ]

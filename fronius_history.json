@@ -1,5 +1,15 @@
 [
     {
+        "datum": "03.11.2026 16:53",
+        "funde": [
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Manufacturer%20Declarations/SE_Manufacturers_Declaration_Safety_Disconnection_from_AC_Side_EN-English.pdf",
+                "bezeichnung": "Safety Disconnection from AC Side",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "02.11.2026 18:54",
         "funde": []
     },
