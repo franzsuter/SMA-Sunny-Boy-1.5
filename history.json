@@ -1,5 +1,20 @@
 [
     {
+        "datum": "04.11.2026 15:59",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/blindleistungseinstellungen-TI-de-10.pdf",
+                "bezeichnung": "blindleistungseinstellungen-TI-de-10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/blindleistungseinstellungen-TI-en-10.pdf",
+                "bezeichnung": "blindleistungseinstellungen-TI-en-10.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "03.11.2026 15:53",
         "funde": [
             {
@@ -180,10 +195,6 @@
     },
     {
         "datum": "06.10.2026 14:47",
-        "funde": []
-    },
-    {
-        "datum": "05.10.2026 16:51",
         "funde": []
     }
 ]

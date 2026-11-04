@@ -79,13 +79,13 @@
         "Titel": "HK_Komponenten-Speicherprogramm_RLP-de-11.pdf",
         "Link": "https://files.sma.de/downloads/HK_Komponenten-Speicherprogramm_RLP-de-11.pdf"
     },
-    "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf": {
-        "Titel": "SolarInvest-TH_SBS-HK-de-13.pdf",
-        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf"
-    },
     "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf": {
         "Titel": "SolarInvest-TH_SI-HK-de-13.pdf",
         "Link": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf"
+    },
+    "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf": {
+        "Titel": "SolarInvest-TH_SBS-HK-de-13.pdf",
+        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf"
     },
     "https://files.sma.de/downloads/RCD-Typ-A-HK-de-18.pdf": {
         "Titel": "RCD-Typ-A-HK-de-18.pdf",
@@ -843,6 +843,10 @@
         "Titel": "ZE_STPx-80_Proto_AR-N 41x0_de_10.pdf",
         "Link": "https://files.sma.de/downloads/ZE_STPx-80_Proto_AR-N 41x0_de_10.pdf"
     },
+    "https://files.sma.de/downloads/blindleistungseinstellungen-TI-de-10.pdf": {
+        "Titel": "blindleistungseinstellungen-TI-de-10.pdf",
+        "Link": "https://files.sma.de/downloads/blindleistungseinstellungen-TI-de-10.pdf"
+    },
     "https://files.sma.de/downloads/EnWG14a-TI-de-12.pdf": {
         "Titel": "EnWG14a-TI-de-12.pdf",
         "Link": "https://files.sma.de/downloads/EnWG14a-TI-de-12.pdf"
@@ -882,6 +886,10 @@
     "https://files.sma.de/downloads/EMeter-Compatibility-TI-en-10.pdf": {
         "Titel": "EMeter-Compatibility-TI-en-10.pdf",
         "Link": "https://files.sma.de/downloads/EMeter-Compatibility-TI-en-10.pdf"
+    },
+    "https://files.sma.de/downloads/blindleistungseinstellungen-TI-en-10.pdf": {
+        "Titel": "blindleistungseinstellungen-TI-en-10.pdf",
+        "Link": "https://files.sma.de/downloads/blindleistungseinstellungen-TI-en-10.pdf"
     },
     "https://files.sma.de/downloads/Flyer_EnergyMaximizer_DE_260806_01.pdf": {
         "Titel": "Flyer_EnergyMaximizer_DE_260806_01.pdf",
