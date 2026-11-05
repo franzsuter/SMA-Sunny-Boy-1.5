@@ -1,5 +1,30 @@
 [
     {
+        "datum": "05.11.2026 16:12",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/HK_Measurement-de-12.pdf",
+                "bezeichnung": "HK_Measurement-de-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/HK_Measurement-en-12.pdf",
+                "bezeichnung": "HK_Measurement-en-12.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-de-14.pdf",
+                "bezeichnung": "SB_STP-Diagnosefunktion-TI-de-14.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-en-14.pdf",
+                "bezeichnung": "SB_STP-Diagnosefunktion-TI-en-14.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "04.11.2026 15:59",
         "funde": [
             {
@@ -191,10 +216,6 @@
     },
     {
         "datum": "08.10.2026 15:16",
-        "funde": []
-    },
-    {
-        "datum": "06.10.2026 14:47",
         "funde": []
     }
 ]

@@ -675,9 +675,9 @@
         "Titel": "HK_STP_SHP_Schutz_ARN4110_de_14.pdf",
         "Link": "https://files.sma.de/downloads/HK_STP_SHP_Schutz_ARN4110_de_14.pdf"
     },
-    "https://files.sma.de/downloads/HK_Measurement-de-11.pdf": {
-        "Titel": "HK_Measurement-de-11.pdf",
-        "Link": "https://files.sma.de/downloads/HK_Measurement-de-11.pdf"
+    "https://files.sma.de/downloads/HK_Measurement-de-12.pdf": {
+        "Titel": "HK_Measurement-de-12.pdf",
+        "Link": "https://files.sma.de/downloads/HK_Measurement-de-12.pdf"
     },
     "https://files.sma.de/downloads/HK-STPxx-80-NA-EEA-NE7-de-10.pdf": {
         "Titel": "HK-STPxx-80-NA-EEA-NE7-de-10.pdf",
@@ -691,9 +691,9 @@
         "Titel": "HK_STPxx-80_EIFS_2_2018_en-10.pdf",
         "Link": "https://files.sma.de/downloads/HK_STPxx-80_EIFS_2_2018_en-10.pdf"
     },
-    "https://files.sma.de/downloads/HK_Measurement-en-11.pdf": {
-        "Titel": "HK_Measurement-en-11.pdf",
-        "Link": "https://files.sma.de/downloads/HK_Measurement-en-11.pdf"
+    "https://files.sma.de/downloads/HK_Measurement-en-12.pdf": {
+        "Titel": "HK_Measurement-en-12.pdf",
+        "Link": "https://files.sma.de/downloads/HK_Measurement-en-12.pdf"
     },
     "https://files.sma.de/downloads/NA-Schutz_STP-HK-en-16.pdf": {
         "Titel": "NA-Schutz_STP-HK-en-16.pdf",
@@ -863,6 +863,10 @@
         "Titel": "Iscpv-TI-de-25.pdf",
         "Link": "https://files.sma.de/downloads/Iscpv-TI-de-25.pdf"
     },
+    "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-de-14.pdf": {
+        "Titel": "SB_STP-Diagnosefunktion-TI-de-14.pdf",
+        "Link": "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-de-14.pdf"
+    },
     "https://files.sma.de/downloads/Update-Support-TI-de-16.pdf": {
         "Titel": "Update-Support-TI-de-16.pdf",
         "Link": "https://files.sma.de/downloads/Update-Support-TI-de-16.pdf"
@@ -886,6 +890,10 @@
     "https://files.sma.de/downloads/EMeter-Compatibility-TI-en-10.pdf": {
         "Titel": "EMeter-Compatibility-TI-en-10.pdf",
         "Link": "https://files.sma.de/downloads/EMeter-Compatibility-TI-en-10.pdf"
+    },
+    "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-en-14.pdf": {
+        "Titel": "SB_STP-Diagnosefunktion-TI-en-14.pdf",
+        "Link": "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-en-14.pdf"
     },
     "https://files.sma.de/downloads/blindleistungseinstellungen-TI-en-10.pdf": {
         "Titel": "blindleistungseinstellungen-TI-en-10.pdf",
@@ -1103,10 +1111,6 @@
         "Titel": "AFCI-general-TI-de-13.pdf",
         "Link": "https://files.sma.de/downloads/AFCI-general-TI-de-13.pdf"
     },
-    "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-de-13.pdf": {
-        "Titel": "SB_STP-Diagnosefunktion-TI-de-13.pdf",
-        "Link": "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-de-13.pdf"
-    },
     "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-en-12.pdf": {
         "Titel": "STPxxx-70-4-Leiter-TI-en-12.pdf",
         "Link": "https://files.sma.de/downloads/STPxxx-70-4-Leiter-TI-en-12.pdf"
@@ -1114,10 +1118,6 @@
     "https://files.sma.de/downloads/AFCI-general-TI-en-13.pdf": {
         "Titel": "AFCI-general-TI-en-13.pdf",
         "Link": "https://files.sma.de/downloads/AFCI-general-TI-en-13.pdf"
-    },
-    "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-en-13.pdf": {
-        "Titel": "SB_STP-Diagnosefunktion-TI-en-13.pdf",
-        "Link": "https://files.sma.de/downloads/SB_STP-Diagnosefunktion-TI-en-13.pdf"
     },
     "https://files.sma.de/downloads/Update-Support-UK-TI-en-10.pdf": {
         "Titel": "Update-Support-UK-TI-en-10.pdf",
