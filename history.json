@@ -1,5 +1,20 @@
 [
     {
+        "datum": "10.11.2026 16:09",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/ZE-HK-MPPT-SB-STP-de-22.pdf",
+                "bezeichnung": "ZE-HK-MPPT-SB-STP-de-22.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/ZE-HK-MPPT-SB-STP-en-22.pdf",
+                "bezeichnung": "ZE-HK-MPPT-SB-STP-en-22.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "08.11.2026 14:48",
         "funde": []
     },
@@ -212,10 +227,6 @@
     },
     {
         "datum": "12.10.2026 17:27",
-        "funde": []
-    },
-    {
-        "datum": "11.10.2026 14:42",
         "funde": []
     }
 ]
