@@ -1,5 +1,9 @@
 [
     {
+        "datum": "14.11.2026 14:49",
+        "funde": []
+    },
+    {
         "datum": "13.11.2026 15:57",
         "funde": []
     },
@@ -210,21 +214,6 @@
             {
                 "url": "https://files.sma.de/downloads/ennexOS-BA-en-12.pdf",
                 "bezeichnung": "ennexOS-BA-en-12.pdf",
-                "typ": "NEU"
-            }
-        ]
-    },
-    {
-        "datum": "14.10.2026 13:21",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/Parasetting-4105-TI-de-12.pdf",
-                "bezeichnung": "Parasetting-4105-TI-de-12.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/Parasetting-4105-TI-en-12.pdf",
-                "bezeichnung": "Parasetting-4105-TI-en-12.pdf",
                 "typ": "NEU"
             }
         ]
