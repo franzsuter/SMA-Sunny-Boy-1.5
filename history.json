@@ -1,5 +1,25 @@
 [
     {
+        "datum": "17.11.2026 17:25",
+        "funde": [
+            {
+                "url": "https://files.sma.de/downloads/ZE_STPx-80_AR-N 41x0_de_10.pdf",
+                "bezeichnung": "ZE_STPx-80_AR-N 41x0_de_10.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/RCX_Support_commb-de-16.pdf",
+                "bezeichnung": "RCX_Support_commb-de-16.pdf",
+                "typ": "NEU"
+            },
+            {
+                "url": "https://files.sma.de/downloads/RCX_Support_commb-en-16.pdf",
+                "bezeichnung": "RCX_Support_commb-en-16.pdf",
+                "typ": "NEU"
+            }
+        ]
+    },
+    {
         "datum": "16.11.2026 18:00",
         "funde": []
     },
@@ -191,20 +211,5 @@
     {
         "datum": "18.10.2026 12:28",
         "funde": []
-    },
-    {
-        "datum": "17.10.2026 12:00",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/SMAModbus-ennexOS-TI-de-14.pdf",
-                "bezeichnung": "SMAModbus-ennexOS-TI-de-14.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/SMAModbus-ennexOS-TI-en-14.pdf",
-                "bezeichnung": "SMAModbus-ennexOS-TI-en-14.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]

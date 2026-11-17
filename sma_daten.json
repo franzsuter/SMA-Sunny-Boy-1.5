@@ -79,13 +79,13 @@
         "Titel": "HK_Komponenten-Speicherprogramm_RLP-de-11.pdf",
         "Link": "https://files.sma.de/downloads/HK_Komponenten-Speicherprogramm_RLP-de-11.pdf"
     },
-    "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf": {
-        "Titel": "SolarInvest-TH_SBS-HK-de-13.pdf",
-        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf"
-    },
     "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf": {
         "Titel": "SolarInvest-TH_SI-HK-de-13.pdf",
         "Link": "https://files.sma.de/downloads/SolarInvest-TH_SI-HK-de-13.pdf"
+    },
+    "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf": {
+        "Titel": "SolarInvest-TH_SBS-HK-de-13.pdf",
+        "Link": "https://files.sma.de/downloads/SolarInvest-TH_SBS-HK-de-13.pdf"
     },
     "https://files.sma.de/downloads/RCD-Typ-A-HK-de-18.pdf": {
         "Titel": "RCD-Typ-A-HK-de-18.pdf",
@@ -843,6 +843,10 @@
         "Titel": "ZE_STPx-80_Proto_AR-N 41x0_de_10.pdf",
         "Link": "https://files.sma.de/downloads/ZE_STPx-80_Proto_AR-N 41x0_de_10.pdf"
     },
+    "https://files.sma.de/downloads/ZE_STPx-80_AR-N 41x0_de_10.pdf": {
+        "Titel": "ZE_STPx-80_AR-N 41x0_de_10.pdf",
+        "Link": "https://files.sma.de/downloads/ZE_STPx-80_AR-N 41x0_de_10.pdf"
+    },
     "https://files.sma.de/downloads/blindleistungseinstellungen-TI-de-10.pdf": {
         "Titel": "blindleistungseinstellungen-TI-de-10.pdf",
         "Link": "https://files.sma.de/downloads/blindleistungseinstellungen-TI-de-10.pdf"
@@ -971,13 +975,13 @@
         "Titel": "PARAMETER-HTML_STP125-70_GG10_V10.zip",
         "Link": "https://files.sma.de/downloads/PARAMETER-HTML_STP125-70_GG10_V10.zip"
     },
-    "https://files.sma.de/downloads/RCX_Support_commb-de-15.pdf": {
-        "Titel": "RCX_Support_commb-de-15.pdf",
-        "Link": "https://files.sma.de/downloads/RCX_Support_commb-de-15.pdf"
+    "https://files.sma.de/downloads/RCX_Support_commb-de-16.pdf": {
+        "Titel": "RCX_Support_commb-de-16.pdf",
+        "Link": "https://files.sma.de/downloads/RCX_Support_commb-de-16.pdf"
     },
-    "https://files.sma.de/downloads/RCX_Support_commb-en-15.pdf": {
-        "Titel": "RCX_Support_commb-en-15.pdf",
-        "Link": "https://files.sma.de/downloads/RCX_Support_commb-en-15.pdf"
+    "https://files.sma.de/downloads/RCX_Support_commb-en-16.pdf": {
+        "Titel": "RCX_Support_commb-en-16.pdf",
+        "Link": "https://files.sma.de/downloads/RCX_Support_commb-en-16.pdf"
     },
     "https://files.sma.de/downloads/FW4_01_16_R_STP125-70.zip": {
         "Titel": "FW4_01_16_R_STP125-70.zip",
