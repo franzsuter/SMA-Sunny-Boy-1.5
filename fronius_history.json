@@ -1,5 +1,15 @@
 [
     {
+        "datum": "18.11.2026 17:58",
+        "funde": [
+            {
+                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Datasheets/SE_Datasheet_Fronius_Symo_GEN24_SC__GEN24_Plus_SC_30_to_120_kW_DE-German.pdf",
+                "bezeichnung": "SE Datenblatt Fronius Symo GEN24 SC & GEN24 Plus SC 3.0 bis 12.0 kW DE",
+                "typ": "UPDATE"
+            }
+        ]
+    },
+    {
         "datum": "17.11.2026 18:25",
         "funde": []
     },
