@@ -1,5 +1,9 @@
 [
     {
+        "datum": "20.11.2026 16:45",
+        "funde": []
+    },
+    {
         "datum": "19.11.2026 17:06",
         "funde": []
     },
@@ -196,20 +200,5 @@
     {
         "datum": "20.10.2026 13:22",
         "funde": []
-    },
-    {
-        "datum": "20.10.2026 07:46",
-        "funde": [
-            {
-                "url": "https://files.sma.de/downloads/EMeter-Compatibility-TI-de-10.pdf",
-                "bezeichnung": "EMeter-Compatibility-TI-de-10.pdf",
-                "typ": "NEU"
-            },
-            {
-                "url": "https://files.sma.de/downloads/EMeter-Compatibility-TI-en-10.pdf",
-                "bezeichnung": "EMeter-Compatibility-TI-en-10.pdf",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
