@@ -1,5 +1,9 @@
 [
     {
+        "datum": "22.11.2026 16:58",
+        "funde": []
+    },
+    {
         "datum": "21.11.2026 16:56",
         "funde": []
     },
@@ -126,15 +130,5 @@
     {
         "datum": "22.10.2026 15:34",
         "funde": []
-    },
-    {
-        "datum": "21.10.2026 15:30",
-        "funde": [
-            {
-                "url": "https://www.fronius.com/~/downloads/Solar%20Energy/Brochures/SE_Brochure__Magazine_SE_BRO_FroniusEnergySolution_EN_EN-English.pdf",
-                "bezeichnung": "SE_BRO_FroniusEnergySolution_EN",
-                "typ": "NEU"
-            }
-        ]
     }
 ]
